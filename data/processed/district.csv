@@ -1,0 +1,242 @@
+Class,Board,Year,District,Appeared,Passed
+10th,Bahawalpur,2024,Bahawalnagar,27764,20867
+10th,Bahawalpur,2024,Bahawalpur,31093,23757
+10th,Bahawalpur,2024,Rahimyar Khan,36383,27268
+10th,Bahawalpur,2025,Bahawalnagar,26221,18007
+10th,Bahawalpur,2025,Bahawalpur,30074,21073
+10th,Bahawalpur,2025,Rahimyar Khan,34198,23780
+10th,DG Khan,2024,Dera Ghazi Khan,21630,16827
+10th,DG Khan,2024,Kot Adu,13907,11578
+10th,DG Khan,2024,Layyah,21286,17675
+10th,DG Khan,2024,Muzaffargarh,24045,20915
+10th,DG Khan,2024,Rajanpur,12360,9810
+10th,DG Khan,2025,Dera Ghazi Khan,13691,10875
+10th,DG Khan,2025,Kot Adu,13775,11412
+10th,DG Khan,2025,Layyah,21023,16876
+10th,DG Khan,2025,Muzaffargarh,23764,20077
+10th,DG Khan,2025,Rajanpur,11517,8809
+10th,DG Khan,2025,Taunsa,7410,6130
+10th,DG Khan,2026,Dera Ghazi Khan,14445,10802
+10th,DG Khan,2026,Kot Adu,14731,11831
+10th,DG Khan,2026,Layyah,22369,17580
+10th,DG Khan,2026,Muzaffargarh,25025,20622
+10th,DG Khan,2026,Rajanpur,12158,8276
+10th,DG Khan,2026,Taunsa,7754,6013
+10th,FBISE,2024,AJK,2654,2026
+10th,FBISE,2024,Balochistan,1858,1679
+10th,FBISE,2024,Federal Area,36111,30607
+10th,FBISE,2024,Gilgit-Baltistan,17645,14218
+10th,FBISE,2024,Khyber-Pukhtunkhwa,5516,5325
+10th,FBISE,2024,Overseas,3570,3029
+10th,FBISE,2024,Punjab,52375,47892
+10th,FBISE,2024,Sindh,8418,7796
+10th,FBISE,2025,AJK,2637,2498
+10th,FBISE,2025,Balochistan,1974,1834
+10th,FBISE,2025,Gilgit-Baltistan,19358,16923
+10th,FBISE,2025,Khyber-Pukhtunkhwa,6054,5851
+10th,FBISE,2025,Overseas,3535,3090
+10th,FBISE,2025,Punjab,56906,51220
+10th,FBISE,2025,Sindh,9051,8466
+10th,FBISE,2026,AJK,2741,2621
+10th,FBISE,2026,Balochistan,2066,2000
+10th,FBISE,2026,Federal Area,38963,33811
+10th,FBISE,2026,Gilgit-Baltistan,19514,17827
+10th,FBISE,2026,Khyber-Pukhtunkhwa,6221,6090
+10th,FBISE,2026,Overseas,3555,3273
+10th,FBISE,2026,Punjab,57720,53288
+10th,FBISE,2026,Sindh,9446,9160
+10th,Rawalpindi,2024,Attock,22766,14874
+10th,Rawalpindi,2024,Chakwal,16747,13610
+10th,Rawalpindi,2024,Jehlum,18941,14531
+10th,Rawalpindi,2024,Murree,5393,4073
+10th,Rawalpindi,2024,Rawalpindi,47671,34776
+10th,Rawalpindi,2024,Talagang,7747,5775
+10th,Rawalpindi,2026,Attock,22275,13158
+10th,Rawalpindi,2026,Chakwal,20703,13190
+10th,Rawalpindi,2026,Jehlum,19653,12500
+10th,Rawalpindi,2026,Murree,4771,2760
+10th,Rawalpindi,2026,Rawalpindi,49760,30471
+10th,Rawalpindi,2026,Talagang,3249,1750
+10th,Sahiwal,2024,OKARA,29540,20896
+10th,Sahiwal,2024,PAKPATTAN,16641,12149
+10th,Sahiwal,2024,SAHIWAL,26978,20161
+10th,Sahiwal,2025,OKARA,29218,19383
+10th,Sahiwal,2025,PAKPATTAN,15771,10449
+10th,Sahiwal,2025,SAHIWAL,26800,18848
+10th,Sargodha,2024,Bhakkar,17869,14372
+10th,Sargodha,2024,Khushab,15334,12090
+10th,Sargodha,2024,Mianwali,19444,14756
+10th,Sargodha,2024,Sargodha,44346,34055
+10th,Sargodha,2026,Bhakkar,17984,11818
+10th,Sargodha,2026,Khushab,16376,11461
+10th,Sargodha,2026,Mianwali,19696,12529
+10th,Sargodha,2026,Sargodha,46555,32829
+11th,Bahawalpur,2024,Bahawalnagar,14622,6666
+11th,Bahawalpur,2024,Bahawalpur,18231,10380
+11th,Bahawalpur,2024,Rahimyar Khan,19005,10354
+11th,Bahawalpur,2025,Bahawalnagar,16410,8366
+11th,Bahawalpur,2025,Bahawalpur,19348,10342
+11th,Bahawalpur,2025,Rahimyar Khan,20630,11273
+11th,DG Khan,2024,Dera Ghazi Khan,11213,6441
+11th,DG Khan,2024,Kot Addu,7474,5079
+11th,DG Khan,2024,Layyah,11102,7380
+11th,DG Khan,2024,Muzaffargarh,13986,9733
+11th,DG Khan,2024,Rajanpur,6599,3711
+11th,DG Khan,2025,Dera Ghazi Khan,7678,4568
+11th,DG Khan,2025,Kot Adu,8004,4863
+11th,DG Khan,2025,Layyah,12663,7687
+11th,DG Khan,2025,Muzaffar Garh,15036,10234
+11th,DG Khan,2025,Rajanpur,7519,4317
+11th,DG Khan,2025,Taunsa Sharif,4054,2608
+11th,Faisalabad,2024,Chiniot,6876,4484
+11th,Faisalabad,2024,Faisalabad,55408,35562
+11th,Faisalabad,2024,Jhang,15592,11009
+11th,Faisalabad,2024,Toba Tek Singh,14306,9599
+11th,Faisalabad,2025,Chiniot,7743,3990
+11th,Faisalabad,2025,Faisalabad,60183,33764
+11th,Faisalabad,2025,Jhang,17033,10828
+11th,Faisalabad,2025,Toba Tek Singh,16375,9499
+11th,Rawalpindi,2024,Attock,9199,3651
+11th,Rawalpindi,2024,Chakwal,9080,3971
+11th,Rawalpindi,2024,Jehlum,9028,3497
+11th,Rawalpindi,2024,Murree,1878,624
+11th,Rawalpindi,2024,Rawalpindi,27007,10624
+11th,Rawalpindi,2024,Talagang,3518,1539
+11th,Rawalpindi,2025,Attock,9283,3935
+11th,Rawalpindi,2025,Chakwal,9521,4568
+11th,Rawalpindi,2025,Jehlum,9545,4253
+11th,Rawalpindi,2025,Murree,1998,623
+11th,Rawalpindi,2025,Rawalpindi,27705,11667
+11th,Rawalpindi,2025,Talagang,3968,1905
+11th,Sahiwal,2024,Okara,16392,8419
+11th,Sahiwal,2024,Pakpattan,8486,4476
+11th,Sahiwal,2024,Sahiwal,14977,7428
+11th,Sahiwal,2025,Okara,17651,10013
+11th,Sahiwal,2025,Pakpattan,9136,5105
+11th,Sahiwal,2025,Sahiwal,15742,8064
+11th,Sargodha,2024,Bhakkar,8838,4149
+11th,Sargodha,2024,Khushab,7409,4074
+11th,Sargodha,2024,Mianwali,8437,4687
+11th,Sargodha,2024,Sargodha,24832,14024
+11th,Sargodha,2025,Bhakkar,10039,4976
+11th,Sargodha,2025,Khushab,8532,5196
+11th,Sargodha,2025,Mianwali,9162,4875
+11th,Sargodha,2025,Sargodha,27098,16231
+12th,Bahawalpur,2024,Bahawalnagar,16524,9472
+12th,Bahawalpur,2024,Bahawalpur,20086,12510
+12th,Bahawalpur,2024,Rahimyar Khan,21050,12707
+12th,DG Khan,2024,Dera Ghazi Khan,13466,8900
+12th,DG Khan,2024,Kot Addu,9151,7038
+12th,DG Khan,2024,Layyah,13232,8756
+12th,DG Khan,2024,Muzaffargarh,16268,12367
+12th,DG Khan,2024,Rajanpur,7985,5280
+12th,DG Khan,2025,Dera Ghazi Khan,8182,5755
+12th,DG Khan,2025,Kot Addu,8260,6528
+12th,DG Khan,2025,Layyah,12579,9316
+12th,DG Khan,2025,Muzaffargarh,15664,12254
+12th,DG Khan,2025,Rajanpur,6947,4722
+12th,DG Khan,2025,Taunsa Sharif,4451,3410
+12th,DG Khan,2026,Dera Ghazi Khan,8521,5927
+12th,DG Khan,2026,Kot Addu,8601,6650
+12th,DG Khan,2026,Layyah,13374,9715
+12th,DG Khan,2026,Muzaffargarh,16378,12615
+12th,DG Khan,2026,Rajanpur,7915,5315
+12th,DG Khan,2026,Taunsa Sharif,4454,3110
+12th,Faisalabad,2024,Chiniot,7981,5679
+12th,Faisalabad,2024,Faisalabad,63090,44235
+12th,Faisalabad,2024,Jhang,16955,13013
+12th,Faisalabad,2024,Toba Tek Singh,15243,11227
+12th,Faisalabad,2025,Chiniot,8053,5660
+12th,Faisalabad,2025,Faisalabad,63350,45630
+12th,Faisalabad,2025,Jhang,17229,13519
+12th,Faisalabad,2025,Toba Tek Singh,15377,11852
+12th,Faisalabad,2026,Chiniot,8432,5086
+12th,Faisalabad,2026,Faisalabad,65978,47044
+12th,Faisalabad,2026,Jhang,18187,13701
+12th,Faisalabad,2026,Toba Tek Singh,16647,11877
+12th,Gujranwala,2024,Gujranwala,44360,27935
+12th,Gujranwala,2024,Gujrat,22252,13636
+12th,Gujranwala,2024,Hafizabad,9671,6234
+12th,Gujranwala,2024,Mandi Baha-ud-Din,11644,7887
+12th,Gujranwala,2024,Narowal,16662,10821
+12th,Gujranwala,2024,Sialkot,38245,22506
+12th,Gujranwala,2025,Gujranwala,41666,26542
+12th,Gujranwala,2025,Gujrat,21877,13964
+12th,Gujranwala,2025,Hafizabad,8941,5852
+12th,Gujranwala,2025,Mandi Baha-ud-Din,11341,7681
+12th,Gujranwala,2025,Narowal,14750,9401
+12th,Gujranwala,2025,Sialkot,37235,22256
+12th,Lahore,2026,Daanish Schools,1172,1163
+12th,Lahore,2026,Kasur,25561,16108
+12th,Lahore,2026,Lahore,129773,83102
+12th,Lahore,2026,Nankana Sahib,11283,8028
+12th,Lahore,2026,Sheikhupura,21584,14659
+12th,Rawalpindi,2024,Attock,9302,5290
+12th,Rawalpindi,2024,Chakwal,10019,6021
+12th,Rawalpindi,2024,Jehlum,9356,5288
+12th,Rawalpindi,2024,Murree,1980,977
+12th,Rawalpindi,2024,Rawalpindi,28510,16004
+12th,Rawalpindi,2024,Talagang,4124,2337
+12th,Rawalpindi,2025,Attock,8901,4832
+12th,Rawalpindi,2025,Chakwal,9091,5091
+12th,Rawalpindi,2025,Jehlum,8865,4923
+12th,Rawalpindi,2025,Murree,2163,738
+12th,Rawalpindi,2025,Rawalpindi,26281,14379
+12th,Rawalpindi,2025,Talagang,3639,1935
+12th,Rawalpindi,2026,Attock,9068,5551
+12th,Rawalpindi,2026,Chakwal,9663,6009
+12th,Rawalpindi,2026,Jehlum,9524,5878
+12th,Rawalpindi,2026,Murree,2166,891
+12th,Rawalpindi,2026,Rawalpindi,26940,16004
+12th,Rawalpindi,2026,Talagang,4048,2563
+12th,Sahiwal,2024,Okara,19630,11206
+12th,Sahiwal,2024,Pakpattan,9816,5288
+12th,Sahiwal,2024,Sahiwal,16073,8683
+12th,Sahiwal,2025,Okara,17683,10575
+12th,Sahiwal,2025,Pakpattan,9502,5675
+12th,Sahiwal,2025,Sahiwal,16056,9228
+12th,Sahiwal,2026,Okara,19038,12402
+12th,Sahiwal,2026,Pakpattan,10101,6392
+12th,Sahiwal,2026,Sahiwal,17109,10074
+12th,Sargodha,2024,Bhakkar,9182,5925
+12th,Sargodha,2024,Khushab,8124,5499
+12th,Sargodha,2024,Mianwali,8845,5708
+12th,Sargodha,2024,Sargodha,26306,18524
+12th,Sargodha,2025,Bhakkar,8785,5895
+12th,Sargodha,2025,Khushab,7367,5153
+12th,Sargodha,2025,Mianwali,8643,5642
+12th,Sargodha,2025,Sargodha,25222,17738
+12th,Sargodha,2026,Bhakkar,9531,6188
+12th,Sargodha,2026,Khushab,8685,5936
+12th,Sargodha,2026,Mianwali,9455,6211
+12th,Sargodha,2026,Sargodha,27363,19741
+9th,Bahawalpur,2025,Bahawalnagar,32923,13494
+9th,Bahawalpur,2025,Bahawalpur,35763,15860
+9th,Bahawalpur,2025,Rahimyar Khan,41751,18220
+9th,Bahawalpur,2026,Bahawalnagar,31757,11377
+9th,Bahawalpur,2026,Bahawalpur,34200,13181
+9th,Bahawalpur,2026,Rahimyar Khan,39644,16053
+9th,DG Khan,2025,Dera Ghazi Khan,16706,8089
+9th,DG Khan,2025,Kot Adu,15522,10031
+9th,DG Khan,2025,Layyah,24984,13819
+9th,DG Khan,2025,Muzaffargarh,26412,17132
+9th,DG Khan,2025,Rajanpur,13791,6943
+9th,DG Khan,2025,Taunsa,8439,4684
+9th,DG Khan,2026,Dera Ghazi Khan,17021,6942
+9th,DG Khan,2026,Kot Adu,15394,7742
+9th,DG Khan,2026,Layyah,24884,12097
+9th,DG Khan,2026,Muzaffargarh,27076,15161
+9th,DG Khan,2026,Rajanpur,13270,4654
+9th,DG Khan,2026,Taunsa,8356,4485
+9th,Rawalpindi,2025,Attock,24538,8880
+9th,Rawalpindi,2025,Chakwal,21664,8668
+9th,Rawalpindi,2025,Jehlum,20283,8255
+9th,Rawalpindi,2025,Murree,2846,983
+9th,Rawalpindi,2025,Rawalpindi,52764,25399
+9th,Rawalpindi,2025,Talagang,3894,1472
+9th,Rawalpindi,2026,Attock,23877,7573
+9th,Rawalpindi,2026,Chakwal,16619,7013
+9th,Rawalpindi,2026,Jehlum,19976,7392
+9th,Rawalpindi,2026,Murree,4961,1777
+9th,Rawalpindi,2026,Rawalpindi,47769,18619
+9th,Rawalpindi,2026,Talagang,8537,3350

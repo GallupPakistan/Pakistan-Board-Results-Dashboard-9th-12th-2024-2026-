@@ -1,0 +1,295 @@
+Board,Year,Group,Category (Gender/Type),Appeared,Passed,Pass %
+DG Khan,2024,Pre-Medical,Male,8379,5958,71.11
+DG Khan,2024,Pre-Medical,Female,13263,9722,73.3
+DG Khan,2024,Pre-Engineering,Male,1430,998,69.79
+DG Khan,2024,Pre-Engineering,Female,596,434,72.82
+DG Khan,2024,Humanities & Other Groups,Male,7953,3246,40.81
+DG Khan,2024,Humanities & Other Groups,Female,7037,4655,66.15
+DG Khan,2024,General Science,Male,7832,4462,56.97
+DG Khan,2024,General Science,Female,3884,2869,73.87
+DG Khan,2025,Pre-Medical,Male,8057,5259,65.27
+DG Khan,2025,Pre-Medical,Female,14517,10294,70.91
+DG Khan,2025,Pre-Engineering,Male,1237,824,66.61
+DG Khan,2025,Pre-Engineering,Female,384,297,77.34
+DG Khan,2025,Humanities & Other Groups,Male,8209,3683,44.87
+DG Khan,2025,Humanities & Other Groups,Female,7188,5103,70.99
+DG Khan,2025,General Science,Male,10206,5370,52.62
+DG Khan,2025,General Science,Female,5156,3447,66.85
+Swat,2024,Pre-Medical,Regular Boys,13877,8619,62.1
+Swat,2024,Pre-Medical,Private Boys,6,0,0
+Swat,2024,Pre-Medical,Regular Girls,7579,6267,82.69
+Swat,2024,Pre-Medical,Private Girls,3,1,33.33
+Swat,2024,Pre-Engineering,Regular Boys,1218,487,40
+Swat,2024,Pre-Engineering,Regular Girls,51,37,72.55
+Swat,2024,Computer Science,Regular Boys,2150,790,36.75
+Swat,2024,Computer Science,Regular Girls,98,49,50
+Swat,2024,Humanities,Regular Boys,2689,1346,50.06
+Swat,2024,Humanities,Private Boys,2228,1026,46.05
+Swat,2024,Humanities,Regular Girls,1429,1127,78.87
+Swat,2024,Humanities,Private Girls,956,735,76.88
+Swat,2025,Pre-Medical,Regular Boys,14729,6807,46.21
+Swat,2025,Pre-Medical,Private Boys,4,0,0
+Swat,2025,Pre-Medical,Regular Girls,8634,5957,68.99
+Swat,2025,Pre-Medical,Private Girls,1,0,0
+Swat,2025,Pre-Engineering,Regular Boys,1305,409,31.34
+Swat,2025,Pre-Engineering,Regular Girls,75,55,73.33
+Swat,2025,Computer Science,Regular Boys,2486,576,23.17
+Swat,2025,Computer Science,Regular Girls,115,52,45.22
+Swat,2025,Humanities,Regular Boys,2098,488,23.26
+Swat,2025,Humanities,Private Boys,1833,469,25.59
+Swat,2025,Humanities,Regular Girls,941,615,65.36
+Swat,2025,Humanities,Private Girls,849,552,65.02
+Abbottabad,2024,Pre-Medical,Regular Female,7757,6367,82.54
+Abbottabad,2024,Pre-Medical,Regular Male,9690,7084,74.12
+Abbottabad,2024,Pre-Engineering,Regular Female,641,521,82.05
+Abbottabad,2024,Pre-Engineering,Regular Male,2535,1843,73.25
+Abbottabad,2024,Computer/General Science,Regular Female,2062,1571,76.75
+Abbottabad,2024,Computer/General Science,Regular Male,5381,4132,77.31
+Abbottabad,2024,Humanities,Regular Female,5606,4186,75.41
+Abbottabad,2024,Humanities,Regular Male,2834,1916,68.5
+Abbottabad,2024,Humanities,Private Female,2495,1443,59.75
+Abbottabad,2024,Humanities,Private Male,3315,1739,54.82
+Abbottabad,2024,Home Economics,Regular Female,13,4,30.77
+Abbottabad,2025,Pre-Medical,Regular Female,8726,6480,74.62
+Abbottabad,2025,Pre-Medical,Regular Male,10654,7139,67.95
+Abbottabad,2025,Pre-Engineering,Regular Female,616,352,57.14
+Abbottabad,2025,Pre-Engineering,Regular Male,2704,1242,46.17
+Abbottabad,2025,Computer/General Science,Regular Female,2683,1592,59.67
+Abbottabad,2025,Computer/General Science,Regular Male,6856,3767,55.34
+Abbottabad,2025,Humanities,Regular Female,6015,4680,78.22
+Abbottabad,2025,Humanities,Regular Male,3182,1582,49.98
+Abbottabad,2025,Humanities,Private Female,2621,1716,66.74
+Abbottabad,2025,Humanities,Private Male,3545,1355,40.33
+Abbottabad,2025,Home Economics,Regular Female,17,8,47.06
+Bahawalpur,2024,Pre-Medical,Male,3913,2587,66.11
+Bahawalpur,2024,Pre-Medical,Female,9784,7122,72.79
+Bahawalpur,2024,Pre-Engineering,Male,1331,888,66.72
+Bahawalpur,2024,Pre-Engineering,Female,802,620,77.31
+Bahawalpur,2024,General Science,Male,8058,3698,45.89
+Bahawalpur,2024,General Science,Female,6995,4312,61.64
+Bahawalpur,2024,Humanities,Male,8833,2131,24.13
+Bahawalpur,2024,Humanities,Female,11901,5923,49.77
+Bahawalpur,2024,Commerce,Male,178,80,44.94
+Bahawalpur,2024,Commerce,Female,63,39,61.9
+Bahawalpur,2025,Pre-Medical,Male,3741,2026,54.16
+Bahawalpur,2025,Pre-Medical,Female,10628,6869,64.63
+Bahawalpur,2025,Pre-Engineering,Male,1193,773,64.79
+Bahawalpur,2025,Pre-Engineering,Female,628,472,75.16
+Bahawalpur,2025,General Science,Male,9294,4700,50.57
+Bahawalpur,2025,General Science,Female,8684,5591,64.38
+Bahawalpur,2025,Humanities,Male,9295,2775,29.85
+Bahawalpur,2025,Humanities,Female,12738,6681,52.45
+Bahawalpur,2025,Commerce,Male,146,65,44.52
+Bahawalpur,2025,Commerce,Female,41,29,70.73
+Bannu,2025,Pre-Medical,Total,8202,8064,98
+Bannu,2025,Pre-Engineering,Total,1502,1493,99
+Bannu,2025,General Science/Pre-Computer,Total,2760,2727,99
+Bannu,2025,Humanities,Total,4389,4320,98
+Faisalabad,2024,Pre-Medical (Regular),Total,24670,18782,76.14
+Faisalabad,2024,Pre-Engineering (Regular),Total,5656,4580,80.97
+Faisalabad,2024,General Science (Regular),Total,25190,15831,62.85
+Faisalabad,2024,Humanities (Regular),Total,33876,19819,58.5
+Faisalabad,2024,Commerce (Regular),Total,2770,1627,58.74
+Faisalabad,2024,Home Economics (Regular),Total,6,6,100
+Faisalabad,2024,Humanities (Private),Total,6150,2979,48.44
+Faisalabad,2024,Commerce (Private),Total,449,150,33.41
+Faisalabad,2024,Islamic Studies (Private),Total,53,23,43.4
+Faisalabad,2025,Pre-Medical (Regular),Total,24764,16385,66.16
+Faisalabad,2025,Pre-Engineering (Regular),Total,5013,3667,73.15
+Faisalabad,2025,General Science (Regular),Total,31692,18895,59.62
+Faisalabad,2025,Humanities (Regular),Total,37487,18006,48.03
+Faisalabad,2025,Commerce (Regular),Total,2369,1120,47.28
+Faisalabad,2025,Home Economics (Regular),Total,9,8,88.89
+Faisalabad,2025,Humanities (Private),Total,6398,2065,32.28
+Faisalabad,2025,Commerce (Private),Total,383,124,32.38
+Faisalabad,2025,Islamic Studies (Private),Total,67,32,47.76
+Gujranwala,2024,Pre-Medical,Regular Male,5792,3221,55.61
+Gujranwala,2024,Pre-Medical,Regular Female,22204,15238,68.63
+Gujranwala,2024,Pre-Engineering,Regular Male,3123,2184,69.93
+Gujranwala,2024,Pre-Engineering,Regular Female,2889,2313,80.06
+Gujranwala,2024,Humanities,Regular Male,11371,1881,16.54
+Gujranwala,2024,Humanities,Regular Female,25873,12855,49.68
+Gujranwala,2024,Humanities,Private Male,3087,297,9.62
+Gujranwala,2024,Humanities,Private Female,9058,3922,43.3
+Gujranwala,2024,General Science,Regular Male,17517,7402,42.26
+Gujranwala,2024,General Science,Regular Female,20091,13507,67.23
+Gujranwala,2024,Commerce,Regular Male,4661,1571,33.71
+Gujranwala,2024,Commerce,Regular Female,4462,3225,72.28
+Gujranwala,2024,Commerce,Private Male,591,108,18.27
+Gujranwala,2024,Commerce,Private Female,636,314,49.37
+Gujranwala,2024,Home Economics,Regular Female,42,33,78.57
+Gujranwala,2025,Pre-Medical,Regular Male,5677,2837,49.97
+Gujranwala,2025,Pre-Medical,Regular Female,24895,15659,62.9
+Gujranwala,2025,Pre-Engineering,Regular Male,2983,1735,58.16
+Gujranwala,2025,Pre-Engineering,Regular Female,2344,1702,72.61
+Gujranwala,2025,Humanities,Regular Male,12414,2724,21.94
+Gujranwala,2025,Humanities,Regular Female,27316,14108,51.65
+Gujranwala,2025,Humanities,Private Male,3084,554,17.96
+Gujranwala,2025,Humanities,Private Female,8756,4124,47.1
+Gujranwala,2025,General Science,Regular Male,19949,8155,40.88
+Gujranwala,2025,General Science,Regular Female,24018,14464,60.22
+Gujranwala,2025,Commerce,Regular Male,4725,1596,33.78
+Gujranwala,2025,Commerce,Regular Female,4690,2921,62.28
+Gujranwala,2025,Commerce,Private Male,511,105,20.55
+Gujranwala,2025,Commerce,Private Female,699,291,41.63
+Gujranwala,2025,Home Economics,Regular Female,40,34,85
+Kohat,2025,Pre-Medical,Regular Boys,12076,2458,20.35
+Kohat,2025,Pre-Medical,Regular Girls,7109,4573,64.33
+Kohat,2025,Pre-Engineering,Regular Boys,1885,338,17.93
+Kohat,2025,Pre-Engineering,Regular Girls,167,98,58.68
+Kohat,2025,General/Computer Science,Regular Boys,7229,1432,19.81
+Kohat,2025,General/Computer Science,Regular Girls,413,259,62.71
+Kohat,2025,Humanities,Regular Boys,774,94,12.14
+Kohat,2025,Humanities,Regular Girls,1651,912,55.24
+Kohat,2025,Humanities,Private Boys,1913,315,16.47
+Kohat,2025,Humanities,Private Girls,756,399,52.78
+Kohat,2025,Home Economics,Regular Girls,39,21,53.85
+Lahore,2024,Pre-Medical,Boys,7847,4799,61.16
+Lahore,2024,Pre-Medical,Girls,26770,16984,63.44
+Lahore,2024,Pre-Engineering,Boys,4925,3241,65.81
+Lahore,2024,Pre-Engineering,Girls,3289,2349,71.42
+Lahore,2024,Humanities & Others,Boys,19340,5210,26.94
+Lahore,2024,Humanities & Others,Girls,34656,18302,52.81
+Lahore,2024,General Science,Boys,28948,12855,44.41
+Lahore,2024,General Science,Girls,24488,14708,60.06
+Lahore,2024,Commerce,Boys,6175,2456,39.77
+Lahore,2024,Commerce,Girls,6246,3881,62.14
+Lahore,2025,Pre-Medical,Boys,7947,4223,53.14
+Lahore,2025,Pre-Medical,Girls,28767,19383,67.38
+Lahore,2025,Pre-Engineering,Boys,4745,3425,72.18
+Lahore,2025,Pre-Engineering,Girls,2737,2064,75.41
+Lahore,2025,Humanities & Others,Boys,20129,3591,17.84
+Lahore,2025,Humanities & Others,Girls,35176,18561,52.77
+Lahore,2025,General Science,Boys,32694,16544,50.6
+Lahore,2025,General Science,Girls,29699,19636,66.12
+Lahore,2025,Commerce,Boys,4956,2023,40.82
+Lahore,2025,Commerce,Girls,5250,3091,58.88
+Mardan,2024,Pre-Medical,Regular Female,10106,8829,87.36
+Mardan,2024,Pre-Medical,Regular Male,12513,10428,83.34
+Mardan,2024,Pre-Engineering,Regular Female,454,393,86.56
+Mardan,2024,Pre-Engineering,Regular Male,2744,2269,82.69
+Mardan,2024,General Science,Regular Female,630,500,79.37
+Mardan,2024,General Science,Regular Male,5171,4342,83.97
+Mardan,2024,Humanities,Regular Female,5591,4961,88.73
+Mardan,2024,Humanities,Regular Male,5003,3456,69.08
+Mardan,2024,Humanities,Private Female,1438,1173,81.57
+Mardan,2024,Humanities,Private Male,2627,1606,61.13
+Mardan,2024,Home Economics,Regular Female,54,41,75.93
+Mardan,2025,Pre-Medical,Regular Female,11803,11743,99.49
+Mardan,2025,Pre-Medical,Regular Male,13267,13152,99.13
+Mardan,2025,Pre-Engineering,Regular Female,489,485,99.18
+Mardan,2025,Pre-Engineering,Regular Male,2877,2857,99.3
+Mardan,2025,General Science,Regular Female,770,767,99.61
+Mardan,2025,General Science,Regular Male,7256,7191,99.1
+Mardan,2025,Humanities,Regular Female,6761,6724,99.45
+Mardan,2025,Humanities,Regular Male,5327,5288,99.27
+Mardan,2025,Humanities,Private Female,1330,1278,96.09
+Mardan,2025,Humanities,Private Male,2443,2320,94.97
+Mardan,2025,Home Economics,Regular Female,52,50,96.15
+Peshawar,2024,Pre-Medical,Regular Female,13097,12056,92.05
+Peshawar,2024,Pre-Medical,Regular Male,18461,14769,80
+Peshawar,2024,Pre-Engineering,Regular Female,437,391,89.5
+Peshawar,2024,Pre-Engineering,Regular Male,3169,2533,79.9
+Peshawar,2024,Humanities,Regular Female,5910,5119,86.6
+Peshawar,2024,Humanities,Regular Male,5213,3486,66.9
+Peshawar,2024,Humanities,Private Female,1776,1325,74.6
+Peshawar,2024,Humanities,Private Male,3453,1647,47.7
+Peshawar,2024,Home Economics,Regular Female,199,170,85.4
+Peshawar,2024,General/Computer Science,Regular Female,840,704,83.8
+Peshawar,2024,General/Computer Science,Regular Male,10312,7990,77.5
+Rawalpindi,2024,Humanities,Regular Male,4129,716,17.34
+Rawalpindi,2024,Humanities,Regular Female,12415,5152,41.5
+Rawalpindi,2024,Humanities,Private Male,1634,202,12.36
+Rawalpindi,2024,Humanities,Private Female,2677,983,36.72
+Rawalpindi,2024,Pre-Medical,Regular Male,2343,986,42.08
+Rawalpindi,2024,Pre-Medical,Regular Female,8650,4813,55.64
+Rawalpindi,2024,Pre-Engineering,Regular Male,1730,901,52.08
+Rawalpindi,2024,Pre-Engineering,Regular Female,1288,837,64.98
+Rawalpindi,2024,Science General,Regular Male,10941,3240,29.61
+Rawalpindi,2024,Science General,Regular Female,11176,4982,44.58
+Rawalpindi,2024,Commerce,Regular Male,1429,427,29.88
+Rawalpindi,2024,Commerce,Regular Female,888,558,62.84
+Rawalpindi,2024,Commerce,Private Male,241,40,16.6
+Rawalpindi,2024,Commerce,Private Female,169,69,40.83
+Rawalpindi,2025,Humanities,Regular Male,4626,913,19.74
+Rawalpindi,2025,Humanities,Regular Female,12888,5737,44.51
+Rawalpindi,2025,Humanities,Private Male,1339,219,16.36
+Rawalpindi,2025,Humanities,Private Female,2432,824,33.88
+Rawalpindi,2025,Pre-Medical,Regular Male,2223,877,39.45
+Rawalpindi,2025,Pre-Medical,Regular Female,8869,4947,55.78
+Rawalpindi,2025,Pre-Engineering,Regular Male,1482,757,51.08
+Rawalpindi,2025,Pre-Engineering,Regular Female,1132,701,61.93
+Rawalpindi,2025,Science General,Regular Male,11598,3936,33.94
+Rawalpindi,2025,Science General,Regular Female,13149,7108,54.06
+Rawalpindi,2025,Commerce,Regular Male,1186,381,32.12
+Rawalpindi,2025,Commerce,Regular Female,746,478,64.08
+Rawalpindi,2025,Commerce,Private Male,213,23,10.8
+Rawalpindi,2025,Commerce,Private Female,137,50,36.5
+Sahiwal,2024,Pre-Medical,Male,2894,1938,66.97
+Sahiwal,2024,Pre-Medical,Female,7701,5362,69.63
+Sahiwal,2024,Pre-Engineering,Male,1265,856,67.67
+Sahiwal,2024,Pre-Engineering,Female,804,594,73.88
+Sahiwal,2024,Humanities,Male,5393,1431,26.53
+Sahiwal,2024,Humanities,Female,6595,3558,53.95
+Sahiwal,2024,General Science,Male,6016,2640,43.88
+Sahiwal,2024,General Science,Female,5477,2896,52.88
+Sahiwal,2024,Commerce,Male,319,82,25.71
+Sahiwal,2024,Commerce,Female,149,108,72.48
+Sahiwal,2024,Home Economics,Female,3,0,0
+Sahiwal,2025,Pre-Medical,Male,2889,1718,59.47
+Sahiwal,2025,Pre-Medical,Female,8037,5105,63.52
+Sahiwal,2025,Pre-Engineering,Male,1120,807,72.05
+Sahiwal,2025,Pre-Engineering,Female,690,529,76.67
+Sahiwal,2025,Humanities,Male,6822,1978,28.99
+Sahiwal,2025,Humanities,Female,9145,4630,50.63
+Sahiwal,2025,General Science,Male,6906,3808,55.14
+Sahiwal,2025,General Science,Female,6504,4329,66.56
+Sahiwal,2025,Commerce,Male,284,162,57.04
+Sahiwal,2025,Commerce,Female,126,111,88.1
+Sahiwal,2025,Home Economics,Female,6,5,83.33
+Sargodha,2024,Commerce,Female,166,123,74.1
+Sargodha,2024,Commerce,Male,299,128,42.81
+Sargodha,2024,General Science,Female,4757,3021,63.51
+Sargodha,2024,General Science,Male,5969,2940,49.25
+Sargodha,2024,Humanities,Female,15101,8237,54.55
+Sargodha,2024,Humanities,Male,11002,3379,30.71
+Sargodha,2024,Pre-Engineering,Female,931,766,82.28
+Sargodha,2024,Pre-Engineering,Male,1518,1146,75.49
+Sargodha,2024,Pre-Medical,Female,7048,5286,75
+Sargodha,2024,Pre-Medical,Male,2725,1908,70.02
+Sargodha,2025,Commerce,Female,118,97,82.2
+Sargodha,2025,Commerce,Male,247,123,49.8
+Sargodha,2025,General Science,Female,6148,4305,70.02
+Sargodha,2025,General Science,Male,7300,4146,56.79
+Sargodha,2025,Humanities,Female,15707,9251,58.9
+Sargodha,2025,Humanities,Male,12155,3841,31.6
+Sargodha,2025,Pre-Engineering,Female,776,633,81.57
+Sargodha,2025,Pre-Engineering,Male,1284,934,72.74
+Sargodha,2025,Pre-Medical,Female,8087,5954,73.62
+Sargodha,2025,Pre-Medical,Male,3009,1994,66.27
+FBISE (Islamabad),2024,Humanities,Regular Male,3931,1755,44.65
+FBISE (Islamabad),2024,Humanities,Regular Female,10235,6771,66.16
+FBISE (Islamabad),2024,Humanities,Private Male,899,212,23.58
+FBISE (Islamabad),2024,Humanities,Private Female,1294,534,41.27
+FBISE (Islamabad),2024,Pre-Medical,Regular Male,7463,4833,64.76
+FBISE (Islamabad),2024,Pre-Medical,Regular Female,18669,14038,75.19
+FBISE (Islamabad),2024,Pre-Engineering,Regular Male,6676,4501,67.42
+FBISE (Islamabad),2024,Pre-Engineering,Regular Female,3780,2794,73.92
+FBISE (Islamabad),2024,Science General,Regular Male,21699,9153,42.18
+FBISE (Islamabad),2024,Science General,Regular Female,13016,6992,53.72
+FBISE (Islamabad),2024,Commerce,Regular Male,2297,857,37.31
+FBISE (Islamabad),2024,Commerce,Regular Female,1182,703,59.48
+FBISE (Islamabad),2024,Pre-Home Eco.,Regular Female,68,52,76.47
+FBISE (Islamabad),2025,Humanities,Regular Male,4717,2002,42.44
+FBISE (Islamabad),2025,Humanities,Regular Female,10744,6833,63.6
+FBISE (Islamabad),2025,Humanities,Private Male,916,191,20.85
+FBISE (Islamabad),2025,Humanities,Private Female,1407,629,44.71
+FBISE (Islamabad),2025,Pre-Medical,Regular Male,7410,5127,69.19
+FBISE (Islamabad),2025,Pre-Medical,Regular Female,18762,15141,80.7
+FBISE (Islamabad),2025,Pre-Engineering,Regular Male,5870,4445,75.72
+FBISE (Islamabad),2025,Pre-Engineering,Regular Female,3184,2549,80.06
+FBISE (Islamabad),2025,Science General,Regular Male,23382,12194,52.15
+FBISE (Islamabad),2025,Science General,Regular Female,15183,9475,62.41
+FBISE (Islamabad),2025,Commerce,Regular Male,2382,836,35.1
+FBISE (Islamabad),2025,Commerce,Regular Female,1284,819,63.79
+FBISE (Islamabad),2025,Pre-Home Eco.,Regular Female,65,42,64.62

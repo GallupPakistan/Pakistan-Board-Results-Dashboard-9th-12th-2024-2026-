@@ -1,0 +1,322 @@
+Board,Year,Subject,Appeared,Passed,Pass %
+Swat,2024,Biology,23451,19250,82
+Swat,2024,Chemistry-I,25604,22545,88
+Swat,2024,English-I,35266,33772,96
+Swat,2024,Islamic Education,34116,33403,98
+Swat,2024,Mutalia Quran-I,33797,31583,93
+Swat,2024,Mathematics-I,3901,1998,51
+Swat,2024,Physics-I,26797,22940,86
+Swat,2024,Urdu-I,35153,30890,88
+Swat,2024,Pakistan Study (compulsory),33029,32209,98
+Swat,2024,Civics-I,5732,5462,95
+Swat,2024,Economics-I,1330,1287,97
+Swat,2024,Education-I,166,144,87
+Swat,2024,Islamic Studies-I,6614,5433,82
+Swat,2024,Islamic History-I,2270,2144,94
+Swat,2024,Pashtu-I,2834,2706,95
+Swat,2024,HPE-I,2730,2498,92
+Swat,2024,Zoology,22626,22341,99
+Swat,2024,Statistics-I,329,317,96
+Swat,2025,English-I,34137,27735,81
+Swat,2025,Urdu-I,34858,30507,88
+Swat,2025,Islamic Education,33884,32979,97
+Swat,2025,Pakistan Studies,30129,28181,94
+Swat,2025,Civics-I,4277,4004,94
+Swat,2025,Mathematics-I,4350,1770,41
+Swat,2025,Mutaliae-Quran-e-Hakeem-I,34466,32378,94
+Swat,2025,Physics-I,27711,16064,58
+Swat,2025,Chemistry-I,26434,20752,79
+Swat,2025,Botany-I,24956,21705,87
+Swat,2025,Computer Science-I,2748,2446,89
+Swat,2025,Economics-I,1310,1253,96
+Swat,2025,Islamic Studies-I,4712,4427,94
+Swat,2025,HPE-I,2138,2046,96
+Abbottabad,2024,English,42329,37308,88.14
+Abbottabad,2024,Urdu (Comp),42324,40411,95.48
+Abbottabad,2024,Islamiyat Compulsory,42310,41338,97.7
+Abbottabad,2024,Islamic History,8390,7515,89.57
+Abbottabad,2024,Economics,2371,1887,79.59
+Abbottabad,2024,Psychology,496,442,89.11
+Abbottabad,2024,Civics,11221,10024,89.33
+Abbottabad,2024,Statistics,1179,1064,90.25
+Abbottabad,2024,Mathematics,10335,8844,85.57
+Abbottabad,2024,Islamyat Elective,11060,9819,88.78
+Abbottabad,2024,Health & Phy. Education,4921,4796,97.46
+Abbottabad,2024,Library Science,702,673,95.87
+Abbottabad,2024,Geography,550,528,96
+Abbottabad,2024,Physics,27308,24077,88.17
+Abbottabad,2024,Chemistry,20624,17833,86.47
+Abbottabad,2024,Biology,17447,16335,93.63
+Abbottabad,2024,Computer Science,7296,7071,96.92
+Abbottabad,2024,Mutaliae-Quran-e-Hakeem,42310,40944,96.77
+Abbottabad,2025,English,47619,40803,85.69
+Abbottabad,2025,Urdu (Comp),47612,45316,95.18
+Abbottabad,2025,Islamyat Compulsory,47608,46113,96.86
+Abbottabad,2025,Islamic History,8640,7468,86.44
+Abbottabad,2025,Economics,2655,2186,82.34
+Abbottabad,2025,Psychology,615,295,47.97
+Abbottabad,2025,Civics,12218,9370,76.69
+Abbottabad,2025,Statistics,1457,1293,88.74
+Abbottabad,2025,Mathematics,12496,8014,64.13
+Abbottabad,2025,Islamyat Elective,11742,10583,90.13
+Abbottabad,2025,Health & Phy. Education,5260,5170,98.29
+Abbottabad,2025,Library Science,723,706,97.65
+Abbottabad,2025,Geography,562,537,95.55
+Abbottabad,2025,Physics,31221,23198,74.3
+Abbottabad,2025,Chemistry,22701,17658,77.79
+Abbottabad,2025,Biology,19381,18336,94.61
+Abbottabad,2025,Computer Science,9495,8994,94.72
+Abbottabad,2025,Mutaliae-Quran-e-Hakeem,47608,45910,96.43
+Bahawalpur,2024,Arabic-I,1422,1276,89.73
+Bahawalpur,2024,Biology-I,13654,11496,84.2
+Bahawalpur,2024,Chemistry-I,15780,12690,80.42
+Bahawalpur,2024,Civics-I,3935,3275,83.23
+Bahawalpur,2024,Computer Science-I,24710,20310,82.19
+Bahawalpur,2024,Economics-I,8048,6315,78.47
+Bahawalpur,2024,Education-I,6503,5955,91.57
+Bahawalpur,2024,English-I,51787,38349,74.05
+Bahawalpur,2024,Islamic Education,51529,50552,98.1
+Bahawalpur,2024,Islamic Studies-I,8858,8262,93.27
+Bahawalpur,2024,Mathematics-I,17199,11621,67.57
+Bahawalpur,2024,Physics-I,27350,22062,80.67
+Bahawalpur,2024,Punjabi-I,1260,1256,99.68
+Bahawalpur,2024,Saraiki-I,1248,1243,99.6
+Bahawalpur,2024,Statistics-I,3428,2314,67.5
+Bahawalpur,2024,Translation of Holy Quran-I,51384,50569,98.41
+Bahawalpur,2024,Urdu-I,51754,48026,92.8
+Bahawalpur,2025,Arabic-I,1277,1180,92.4
+Bahawalpur,2025,Biology-I,14289,10797,75.56
+Bahawalpur,2025,Chemistry-I,16135,11796,73.11
+Bahawalpur,2025,Civics-I,4060,3610,88.92
+Bahawalpur,2025,Computer Science-I,30017,25908,86.31
+Bahawalpur,2025,Economics-I,8771,7233,82.46
+Bahawalpur,2025,Education-I,6752,6374,94.4
+Bahawalpur,2025,English-I,56237,42507,75.59
+Bahawalpur,2025,Islamic Education,55849,55478,99.34
+Bahawalpur,2025,Islamic Studies-I,8681,8245,94.98
+Bahawalpur,2025,Mathematics-I,19837,13733,69.23
+Bahawalpur,2025,Physics-I,30509,24801,81.29
+Bahawalpur,2025,Punjabi-I,1206,1198,99.34
+Bahawalpur,2025,Saraiki-I,1452,1442,99.31
+Bahawalpur,2025,Statistics-I,3504,2544,72.6
+Bahawalpur,2025,Translation of Holy Quran-I,55883,55081,98.56
+Bahawalpur,2025,Urdu-I,56202,52668,93.71
+Faisalabad,2024,Biology (Regular),24624,21158,85.92
+Faisalabad,2024,Chemistry (Regular),30259,26151,86.42
+Faisalabad,2024,Civics (Regular),6500,5709,87.83
+Faisalabad,2024,Computer Science (Regular),40864,35679,87.31
+Faisalabad,2024,Economics (Regular),8062,5652,70.11
+Faisalabad,2024,Education (Regular),16313,15222,93.31
+Faisalabad,2024,English (Regular),92091,79500,86.33
+Faisalabad,2024,Islamic Education (Regular),90994,90095,99.01
+Faisalabad,2024,Mathematics (Regular),30846,24050,77.97
+Faisalabad,2024,Physics (Regular),49922,43317,86.77
+Faisalabad,2024,Urdu (Regular),92056,87336,94.87
+Faisalabad,2024,Translation of Holy Quran (Regular),90872,90044,99.09
+Faisalabad,2025,Biology (Regular),24707,19955,80.77
+Faisalabad,2025,Chemistry (Regular),29711,22902,77.08
+Faisalabad,2025,Civics (Regular),7243,6869,94.84
+Faisalabad,2025,Computer Science (Regular),51274,42487,82.86
+Faisalabad,2025,Economics (Regular),8880,7133,80.33
+Faisalabad,2025,Education (Regular),18625,17804,95.59
+Faisalabad,2025,English (Regular),101177,79960,79.03
+Faisalabad,2025,Islamic Education (Regular),99330,98207,98.87
+Faisalabad,2025,Mathematics (Regular),36693,26412,71.98
+Faisalabad,2025,Physics (Regular),55322,47808,86.42
+Faisalabad,2025,Urdu (Regular),101093,95989,94.95
+Faisalabad,2025,Translation of Holy Quran (Regular),99418,98503,99.08
+Gujranwala,2024,Arabic,1751,1577,90.06
+Gujranwala,2024,Biology,27918,21801,78.09
+Gujranwala,2024,Business Math,10327,9656,93.5
+Gujranwala,2024,Chemistry,33930,26531,78.19
+Gujranwala,2024,Civics,23182,18493,79.77
+Gujranwala,2024,Computer Science,50082,39417,78.7
+Gujranwala,2024,Economics,9527,7292,76.54
+Gujranwala,2024,Education,31338,25992,82.94
+Gujranwala,2024,English,131160,93736,71.47
+Gujranwala,2024,Health & Physical Education,10931,9544,87.31
+Gujranwala,2024,Islamic Education (Compulsory),129574,126712,97.79
+Gujranwala,2024,Islamic Studies (Elective),36553,34432,94.2
+Gujranwala,2024,Mathematics,43692,32043,73.34
+Gujranwala,2024,Physics,60785,49999,82.26
+Gujranwala,2024,Punjabi,4446,4327,97.32
+Gujranwala,2024,Sociology,5927,5429,91.6
+Gujranwala,2024,Statistics,5896,4190,71.07
+Gujranwala,2024,Translation of Holy Quran,129388,128103,99.01
+Gujranwala,2024,Urdu,131040,122042,93.13
+Gujranwala,2025,Arabic,1591,1336,83.97
+Gujranwala,2025,Biology,30498,22024,72.21
+Gujranwala,2025,Business Math,10602,9156,86.36
+Gujranwala,2025,Chemistry,35798,26692,74.56
+Gujranwala,2025,Civics,22848,19979,87.44
+Gujranwala,2025,Computer Science,59942,47361,79.01
+Gujranwala,2025,Economics,10555,8089,76.64
+Gujranwala,2025,Education,31817,27870,87.59
+Gujranwala,2025,English,141725,104872,74
+Gujranwala,2025,Health & Physical Education,12076,10011,82.9
+Gujranwala,2025,Islamic Education (Compulsory),139588,136882,98.06
+Gujranwala,2025,Islamic Studies (Elective),37841,35353,93.43
+Gujranwala,2025,Mathematics,49339,31054,62.94
+Gujranwala,2025,Physics,68403,55828,81.62
+Gujranwala,2025,Punjabi,4063,3822,94.07
+Gujranwala,2025,Sociology,6284,6004,95.54
+Gujranwala,2025,Statistics,5998,4497,74.97
+Gujranwala,2025,Translation of Holy Quran,139854,138261,98.86
+Gujranwala,2025,Urdu,141531,132289,93.47
+Kohat,2025,English,35141,21034,60
+Kohat,2025,Urdu,34920,27982,80
+Kohat,2025,Islamic Education,34551,30806,89
+Kohat,2025,Mutaliae Quran-e-Hakeem,34525,30241,88
+Kohat,2025,Physics,29322,16577,57
+Kohat,2025,Chemistry,22193,11238,51
+Kohat,2025,Biology,20328,13055,64
+Kohat,2025,Mathematics,9729,3637,37
+Kohat,2025,Computer Science,7823,5761,74
+Kohat,2025,Islamic Studies,4472,3804,85
+Kohat,2025,Civics,4396,3111,71
+Kohat,2025,Islamic History,2951,2329,79
+Kohat,2025,Health & Physical Education,1890,1696,90
+Kohat,2025,Economics,638,533,84
+Lahore,2024,Translation of Holy Quran (Pre-Med),33323,33213,99.67
+Lahore,2024,Urdu (Pre-Med),34565,34282,99.18
+Lahore,2024,English (Pre-Med),34571,33470,96.82
+Lahore,2024,Physics (Pre-Med),34571,27018,78.15
+Lahore,2024,Chemistry (Pre-Med),34571,26719,77.29
+Lahore,2024,Biology (Pre-Med),34571,27088,78.35
+Lahore,2024,Mathematics (Pre-Eng),8209,6761,82.36
+Lahore,2024,Physics (Pre-Eng),8209,7230,88.07
+Lahore,2024,Chemistry (Pre-Eng),8209,6136,74.75
+Lahore,2024,Mathematics (Gen. Science),53374,31105,58.28
+Lahore,2024,Computer Science (Gen. Science),53233,48567,91.23
+Lahore,2024,Physics (Gen. Science),40606,30615,75.4
+Lahore,2024,"English (Commerce, overall)",12405,8385,67.59
+Lahore,2024,"Principles of Accounting (Commerce, overall)",12405,10584,85.32
+Lahore,2024,"English (Humanities, overall)",53854,28600,53.11
+Lahore,2024,Computer Science (Humanities),14678,9210,62.75
+Lahore,2024,"Civics (Humanities, overall)",22514,20557,91.31
+Lahore,2024,"Education (Humanities, overall)",33583,29626,88.22
+Lahore,2025,Translation of Holy Quran (Pre-Med),35216,35109,99.7
+Lahore,2025,Urdu (Pre-Med),36693,36196,98.65
+Lahore,2025,English (Pre-Med),36704,34699,94.54
+Lahore,2025,Physics (Pre-Med),36704,30442,82.94
+Lahore,2025,Chemistry (Pre-Med),36704,28637,78.02
+Lahore,2025,Biology (Pre-Med),36704,28507,77.67
+Lahore,2025,Mathematics (Pre-Eng),7479,6353,84.94
+Lahore,2025,Physics (Pre-Eng),7479,6413,85.75
+Lahore,2025,Chemistry (Pre-Eng),7479,6319,84.49
+Lahore,2025,Mathematics (Gen. Science),62348,41373,66.36
+Lahore,2025,Computer Science (Gen. Science),62276,57230,91.9
+Lahore,2025,Physics (Gen. Science),48536,38017,78.33
+Lahore,2025,"English (Commerce, overall)",10145,7029,69.29
+Lahore,2025,"Principles of Accounting (Commerce, overall)",10145,8812,86.86
+Lahore,2025,"English (Humanities, overall)",54903,26063,47.47
+Lahore,2025,Computer Science (Humanities),19035,11863,62.32
+Lahore,2025,"Civics (Humanities, overall)",22074,19152,86.76
+Lahore,2025,"Education (Humanities, overall)",33609,29490,87.74
+Peshawar,2024,English,62885,60184,95.7
+Peshawar,2024,Urdu,62847,60679,96.55
+Peshawar,2024,Islamic Education,62602,61635,98.46
+Peshawar,2024,Mutalia-e-Quran Hakeem,62602,61463,98.18
+Peshawar,2024,Islamic History,5821,5468,93.94
+Peshawar,2024,Economics,2643,2478,93.76
+Peshawar,2024,Civics,11274,10447,92.66
+Peshawar,2024,Mathematics,14655,13184,89.96
+Peshawar,2024,Islamic Studies,11055,9025,81.64
+Peshawar,2024,Health & Phy. Education,4726,4498,95.18
+Peshawar,2024,Physics,45724,41125,89.94
+Peshawar,2024,Chemistry,35162,34061,96.87
+Peshawar,2024,Biology,31555,29102,92.23
+Peshawar,2024,Computer Science,12141,11628,95.77
+Peshawar,2024,Pashto,2638,2564,97.19
+Sahiwal,2024,Biology,10565,8560,81.02
+Sahiwal,2024,Chemistry,12638,10400,82.29
+Sahiwal,2024,Civics,4943,4812,97.35
+Sahiwal,2024,Computer Science,18403,13667,74.27
+Sahiwal,2024,Economics,6746,5498,81.5
+Sahiwal,2024,Education,6970,6010,86.23
+Sahiwal,2024,English,39782,29311,73.68
+Sahiwal,2024,Islamic Education,39474,38632,97.87
+Sahiwal,2024,Mathematics,13599,8222,60.46
+Sahiwal,2024,Physics,20657,16342,79.11
+Sahiwal,2024,Islamic Studies (Elective),8374,8158,97.42
+Sahiwal,2024,Translation of Holy Quran,39427,38970,98.84
+Sahiwal,2024,Urdu,39779,37243,93.62
+Sahiwal,2025,Biology,10898,7876,72.27
+Sahiwal,2025,Chemistry,12704,9517,74.91
+Sahiwal,2025,Civics,4804,4550,94.71
+Sahiwal,2025,Computer Science,21511,16562,76.99
+Sahiwal,2025,Economics,7211,5780,80.16
+Sahiwal,2025,Education,7184,6857,95.45
+Sahiwal,2025,English,42428,32999,77.78
+Sahiwal,2025,Islamic Education,41959,41774,99.56
+Sahiwal,2025,Mathematics,15251,11083,72.67
+Sahiwal,2025,Physics,22230,18277,82.22
+Sahiwal,2025,Islamic Studies (Elective),8512,8385,98.51
+Sahiwal,2025,Translation of Holy Quran,42037,41802,99.44
+Sahiwal,2025,Urdu,42402,40564,95.67
+Sargodha,2024,English,49437,36047,72.92
+Sargodha,2024,Urdu,49408,45948,93
+Sargodha,2024,Mathematics,13518,9240,70.13
+Sargodha,2024,Islamic Studies,10510,9544,95.13
+Sargodha,2024,Physics,20921,15818,77.46
+Sargodha,2024,Chemistry,12492,10039,82.35
+Sargodha,2024,Biology,9990,7667,78.66
+Sargodha,2024,Computer Science,21031,16139,76.74
+Sargodha,2024,Translation of Holy Quran,48963,48359,98.77
+Sargodha,2024,Islamic Education,49032,47809,97.51
+Sargodha,2024,Civics,7383,6845,92.71
+Sargodha,2024,Health & Physical Education,16424,15814,96.29
+Sargodha,2024,Education,11142,8893,79.82
+Sargodha,2024,Sociology,3730,3241,86.89
+Sargodha,2025,English,54702,40571,74.17
+Sargodha,2025,Urdu,54672,52391,95.83
+Sargodha,2025,Civics,7649,7110,92.95
+Sargodha,2025,Mathematics,15502,11867,76.55
+Sargodha,2025,Islamic Studies,9777,8912,91.15
+Sargodha,2025,Physics,23525,18803,79.93
+Sargodha,2025,Chemistry,13117,10361,78.99
+Sargodha,2025,Biology,11065,8582,77.56
+Sargodha,2025,Computer Science,25186,19783,78.55
+Sargodha,2025,Translation of Holy Quran,54207,53193,98.13
+Sargodha,2025,Islamic Education,54137,52796,97.52
+Sargodha,2025,Health & Physical Education,17643,16236,92.03
+Sargodha,2025,Education,10944,9250,84.52
+Sargodha,2025,Sociology,3957,3230,81.63
+Sargodha,2025,Economics,4071,3322,81.6
+Sargodha,2025,Statistics,1044,909,87.07
+FBISE (Islamabad),2024,English Compulsory,92076,89423,97.12
+FBISE (Islamabad),2024,Urdu Compulsory,91877,91287,99.36
+FBISE (Islamabad),2024,Islamic Education,91214,89788,98.44
+FBISE (Islamabad),2024,Mathematics,45581,25046,54.95
+FBISE (Islamabad),2024,Physics,66182,52904,79.94
+FBISE (Islamabad),2024,Chemistry,36724,28711,78.18
+FBISE (Islamabad),2024,Biology,26208,22098,84.32
+FBISE (Islamabad),2024,Computer Science,37376,33763,90.33
+FBISE (Islamabad),2024,Civics,6878,4200,61.06
+FBISE (Islamabad),2024,Economics,3328,2002,60.16
+FBISE (Islamabad),2024,Education,10036,8949,89.17
+FBISE (Islamabad),2024,Islamic Studies,5565,5078,91.25
+FBISE (Islamabad),2024,Statistics,5879,3806,64.74
+FBISE (Islamabad),2024,Sociology,6045,4257,70.42
+FBISE (Islamabad),2024,Principles of Accounting,3836,2769,72.18
+FBISE (Islamabad),2024,Principles of Commerce,3833,3284,85.68
+FBISE (Islamabad),2024,Principles of Economics,3826,1989,51.99
+FBISE (Islamabad),2024,Business Mathematics,3826,3086,80.66
+FBISE (Islamabad),2025,English Compulsory-I,102681,99246,96.65
+FBISE (Islamabad),2025,Urdu Compulsory-I,101132,99803,98.69
+FBISE (Islamabad),2025,Islamic Education,99620,98345,98.72
+FBISE (Islamabad),2025,Mathematics-I,59242,32998,55.7
+FBISE (Islamabad),2025,Physics-I,77046,59784,77.6
+FBISE (Islamabad),2025,Chemistry-I,41352,32269,78.03
+FBISE (Islamabad),2025,Biology-I,30739,24310,79.09
+FBISE (Islamabad),2025,Computer Science-I,46109,38696,83.92
+FBISE (Islamabad),2025,Civics-I,8958,6554,73.16
+FBISE (Islamabad),2025,Economics-I,4602,2844,61.8
+FBISE (Islamabad),2025,Education-I,12709,10515,82.74
+FBISE (Islamabad),2025,Islamic Studies-I,6493,5324,82
+FBISE (Islamabad),2025,Statistics-I,6922,3948,57.04
+FBISE (Islamabad),2025,Sociology-I,7462,5051,67.69
+FBISE (Islamabad),2025,Principles of Accounting-I,4790,3297,68.83
+FBISE (Islamabad),2025,Principles of Commerce,4345,3194,73.51
+FBISE (Islamabad),2025,Principles of Economics,5022,3023,60.2
+FBISE (Islamabad),2025,Business Mathematics,4527,2752,60.79

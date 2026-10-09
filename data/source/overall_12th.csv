@@ -1,0 +1,43 @@
+Board,Year,Appeared,Passed,Pass %age,Published,Notes
+Abbottabad,2024,39267,33644,0.8568008760536837,86.55,Appeared includes 396 absent
+Abbottabad,2025,42357,36550,0.8629034162003919,87.15,Appeared includes 416 absent
+Abbottabad,2026,45757,35818,0.7827873330856481,79.11,Appeared includes 480 absent
+Bahawalpur,2024,57660,34689,0.6016129032258064,60.16,Part I & II combined; Appeared excludes 948 absent/cancelled roll nos.
+Bahawalpur,2025,55727,35404,0.635311428930321,63.53,Part I & II combined; Appeared excludes absent/cancelled roll nos. (2025 counts not in supplied pages)
+Bahawalpur,2026,60592,36304,0.5991550039609189,59.92,"Part I & II combined; Appeared excludes 1,076 absent/cancelled roll nos.; 61,668 applied"
+Bannu,2025,18099,15484,0.8555168793856014,86.0,"Part-II (final, 2nd Year); Part-I: 16,859 promoted (16,604 passed, 98%); group Appeared adds to 18,056 vs printed 18,099 - Sub Total used; published % is a whole number"
+Bannu,2026,17771,14484,0.8150357323729672,82.0,"Part-II (final, 2nd Year); Part-I: 17,857 appeared, 14,845 passed (83%); gazette Private-category Passed counts are below their grade counts - printed totals used; published % is a whole number"
+DGK,2024,60102,42341,0.7044857076303617,70.45,"Part-II & Combined; 60,539 applied"
+DGK,2025,56083,41985,0.7486225772515736,74.86,"Part-II & Combined; 56,655 applied"
+DGK,2026,59243,43332,0.7314281856084263,73.14,"Part-II & Combined; 59,629 applied"
+FSD,2024,103269,74154,0.7180664090869476,,Regular + Private; gazette gives Regular 79.00% and Private 47.79% only (no overall %)
+FSD,2025,104009,76661,0.7370612158563201,73.71,"Regular + Private (105,433 admission forms submitted); Regular 80.30%, Private 50.16%"
+FSD,2026,109244,77708,0.7113251070997034,71.13,"Regular + Private; Regular 78.29%, Private 43.32%; applied/admission-form count not on supplied pages"
+FBISE,2024,89261,72653,0.8139388982870459,82.58,"HSSC-II, All Areas (Regular + Private); enrolled 90,518, absent 1,257; published % is on Appeared less RL"
+FBISE,2025,96521,79881,0.8276022834409092,83.19,"HSSC-II, All Areas (Regular + Private); enrolled 97,925, absent 1,404; published % is on Appeared less RL"
+FBISE,2026,103178,87364,0.8467308922444707,85.95,"HSSC-II, All Areas (Regular + Private); enrolled 104,838, absent 1,660; published % is on Appeared less RL"
+Gujranwala,2024,142834,89019,0.6232339639021521,,Part-II First Annual; overall % not stated in gazette; no applied count given
+Gujranwala,2025,135810,85696,0.6309991900449157,,Part-II First Annual; overall % not stated in gazette; no applied count given
+Kohat,2025,29496,16808,0.5698399783021426,56.98,"Part-II (final, 2nd Year); Part-I: 34,012 appeared, 10,899 passed (32.04%); group Appeared adds to 29,495 vs printed 29,496 - printed total used"
+Kohat,2026,31496,9724,0.3087376174752349,30.87,"Part-II (final, 2nd Year); Part-I: 22,728 appeared, 6,138 passed (27.01%); group Appeared adds to 31,496 only via printed group totals (two groups each 1 above the sum of their categories)"
+Lahore,2024,190218,114985,0.6044906370585328,60.45,"Part I & II combined; 194,766 applied"
+Lahore,2025,180329,109741,0.6085599099423831,60.86,"Part I & II combined; 184,000 applied"
+Lahore,2026,189373,123060,0.6498286450549973,64.98,"Part I & II combined; 192,950 applied; Appeared/Passed include 431 / 223 Additional-subject candidates not in the group rows"
+Mardan,2024,42873,40105,0.9354372215613557,93.54,Annual-I Part-II; no grade data in gazette
+Mardan,2025,45778,38674,0.8448162872995763,84.48,Annual-I Part-II; no grade data in gazette
+Mardan,2026,49250,39178,0.795492385786802,79.55,Annual-I Part-II; no grade data in gazette
+Peshawar,2024,61217,56117,0.9166898083865593,92.0,"Annual-I Part-II (final result); 497 absent included in Appeared; Part-I: 62,886 students, 50,207 passed, 99.1% (promotion-based); published % is a whole number"
+Peshawar,2025,62322,44902,0.7204839382561535,72.0,Annual-I Part-II (final result); 583 absent included in Appeared; no Part-I result in the 2025 gazette; published % is a whole number
+Peshawar,2026,66735,35103,0.5260058440098898,52.6,"Annual-I Part-II (final result); 754 absent included in Appeared; Part-I: 63,605 students, 31,169 passed, 31,864 promoted, 99.10% (promotion-based)"
+Rawalpindi,2024,63291,35922,0.5675688486514671,56.76,"1st Annual; 64,232 enrolled; Appeared excludes 917 absent and 24 cancelled"
+Rawalpindi,2025,58940,31898,0.541194435018663,54.12,"1st Annual; 59,784 enrolled; Appeared excludes 813 absent and 31 cancelled"
+Rawalpindi,2026,61409,36896,0.6008239834551938,60.08,"1st Annual; 62,233 enrolled; Appeared excludes 795 absent and 29 cancelled"
+Sahiwal,2024,45519,25177,0.5531096904589292,55.31,"Part-II First Annual; 46,877 applied"
+Sahiwal,2025,43241,25478,0.5892093152332277,58.92,"Part-II First Annual; 44,302 applied"
+Sahiwal,2026,46248,28868,0.6241999654039093,62.42,"Part-II First Annual; 47,353 applied"
+Sargodha,2024,52457,35656,0.6797186266847132,67.97,"Part-II (Composite) First Annual; 53,507 applied; 1,050 absent and 2,080 cancelled excluded from Appeared"
+Sargodha,2025,50017,34428,0.688325969170482,68.83,"Part-II (Composite) First Annual; 50,982 applied (absent/cancelled counts not in supplied pages)"
+Sargodha,2026,55034,38076,0.6918632118326853,69.19,"Part-II (Composite) First Annual; 55,749 applied; 715 absent and 11,750 un-allotted/cancelled roll numbers excluded"
+Swat,2024,33977,30555,0.8992848103128587,89.93,"Class 12th; Class 11th also reported (32,284 appeared, 20,484 passed, 63.45%)"
+Swat,2025,32152,26384,0.82060213983578,82.06,Class 12th (2025 gazette reports Class 12th only)
+Swat,2026,32531,21183,0.6511635055792936,65.12,"Class 12th; Class 11th also reported (31,611 appeared, 19,772 passed, 62.55%)"

@@ -1,0 +1,229 @@
+Board,Year,Group,Appeared,Passed
+Abbottabad,2024,General Science,5350,4723
+Abbottabad,2024,Home Economics,8,7
+Abbottabad,2024,Humanities,11390,9304
+Abbottabad,2024,Other,2,2
+Abbottabad,2024,Pre-Engineering,3885,3298
+Abbottabad,2024,Pre-Medical,18199,15986
+Abbottabad,2025,General Science,7488,6529
+Abbottabad,2025,Home Economics,13,7
+Abbottabad,2025,Humanities,13145,10523
+Abbottabad,2025,Pre-Engineering,3277,2778
+Abbottabad,2025,Pre-Medical,18129,16476
+Abbottabad,2026,General Science,9411,6469
+Abbottabad,2026,Home Economics,21,19
+Abbottabad,2026,Humanities,13466,10611
+Abbottabad,2026,Pre-Engineering,3272,2316
+Abbottabad,2026,Pre-Medical,19587,16403
+Bahawalpur,2024,Commerce,305,160
+Bahawalpur,2024,General Science,12610,6959
+Bahawalpur,2024,Humanities,22433,9416
+Bahawalpur,2024,Pre-Engineering,3280,2405
+Bahawalpur,2024,Pre-Medical,19032,15749
+Bahawalpur,2025,Commerce,278,155
+Bahawalpur,2025,General Science,15168,9615
+Bahawalpur,2025,Humanities,22983,11375
+Bahawalpur,2025,Pre-Engineering,2298,1818
+Bahawalpur,2025,Pre-Medical,15000,12441
+Bahawalpur,2026,Commerce,213,133
+Bahawalpur,2026,General Science,18527,11387
+Bahawalpur,2026,Humanities,24824,11642
+Bahawalpur,2026,Pre-Engineering,1985,1456
+Bahawalpur,2026,Pre-Medical,15043,11686
+Bannu,2025,General Science,2243,1859
+Bannu,2025,Humanities,4629,3684
+Bannu,2025,Pre-Engineering,1602,1393
+Bannu,2025,Pre-Medical,9582,8548
+Bannu,2026,General Science,2967,2497
+Bannu,2026,Humanities,3919,3067
+Bannu,2026,Pre-Engineering,1486,1283
+Bannu,2026,Pre-Medical,9399,7637
+DGK,2024,Commerce,208,146
+DGK,2024,General Science,8578,5388
+DGK,2024,Humanities,17172,9575
+DGK,2024,Pre-Engineering,2924,2116
+DGK,2024,Pre-Medical,31220,25116
+DGK,2025,Commerce,167,126
+DGK,2025,General Science,11778,8678
+DGK,2025,Humanities,15993,9795
+DGK,2025,Pre-Engineering,2292,1800
+DGK,2025,Pre-Medical,25853,21586
+DGK,2026,Commerce,162,136
+DGK,2026,General Science,15292,10295
+DGK,2026,Humanities,16822,11025
+DGK,2026,Pre-Engineering,1808,1342
+DGK,2026,Pre-Medical,25159,20534
+FBISE,2024,Commerce,4408,3135
+FBISE,2024,General Science,28110,19314
+FBISE,2024,Home Economics,65,55
+FBISE,2024,Humanities,16804,13585
+FBISE,2024,Other,11728,10207
+FBISE,2024,Pre-Medical,28146,26357
+FBISE,2025,Commerce,3961,3052
+FBISE,2025,General Science,36074,26041
+FBISE,2025,Home Economics,61,55
+FBISE,2025,Humanities,16923,14132
+FBISE,2025,Other,10681,9495
+FBISE,2025,Pre-Medical,28821,27106
+FBISE,2026,Commerce,4131,3094
+FBISE,2026,General Science,42251,33219
+FBISE,2026,Home Economics,71,59
+FBISE,2026,Humanities,18327,15036
+FBISE,2026,Other,9488,8619
+FBISE,2026,Pre-Medical,28910,27337
+FSD,2024,Commerce,3745,2252
+FSD,2024,General Science,20143,13836
+FSD,2024,Humanities,40638,24887
+FSD,2024,Other,115,26
+FSD,2024,Pre-Engineering,7608,6332
+FSD,2024,Pre-Medical,31020,26821
+FSD,2025,Commerce,3477,2341
+FSD,2025,General Science,24812,19440
+FSD,2025,Home Economics,6,5
+FSD,2025,Humanities,42458,25929
+FSD,2025,Other,220,83
+FSD,2025,Pre-Engineering,6032,5260
+FSD,2025,Pre-Medical,27004,23603
+FSD,2026,Commerce,3019,1876
+FSD,2026,General Science,29697,22111
+FSD,2026,Home Economics,8,8
+FSD,2026,Humanities,45873,27826
+FSD,2026,Other,152,74
+FSD,2026,Pre-Engineering,5129,4265
+FSD,2026,Pre-Medical,25366,21548
+Gujranwala,2024,Commerce,10900,6480
+Gujranwala,2024,General Science,32594,18845
+Gujranwala,2024,Home Economics,29,20
+Gujranwala,2024,Humanities,50061,25295
+Gujranwala,2024,Pre-Engineering,9589,7032
+Gujranwala,2024,Pre-Medical,39661,31347
+Gujranwala,2025,Commerce,10404,6185
+Gujranwala,2025,General Science,37242,24334
+Gujranwala,2025,Home Economics,42,32
+Gujranwala,2025,Humanities,50774,26145
+Gujranwala,2025,Pre-Engineering,6562,4949
+Gujranwala,2025,Pre-Medical,30786,24051
+Kohat,2025,General Science,5453,2161
+Kohat,2025,Home Economics,22,18
+Kohat,2025,Humanities,4830,2740
+Kohat,2025,Pre-Engineering,1929,788
+Kohat,2025,Pre-Medical,17261,11101
+Kohat,2026,General Science,7052,1251
+Kohat,2026,Home Economics,40,21
+Kohat,2026,Humanities,3961,1452
+Kohat,2026,Pre-Engineering,1996,531
+Kohat,2026,Pre-Medical,18445,6469
+Lahore,2024,Commerce,15268,9581
+Lahore,2024,General Science,49193,28506
+Lahore,2024,Humanities,63573,29172
+Lahore,2024,Pre-Engineering,12950,9528
+Lahore,2024,Pre-Medical,49234,38198
+Lahore,2025,Commerce,12976,8041
+Lahore,2025,General Science,56997,34622
+Lahore,2025,Humanities,62337,29705
+Lahore,2025,Pre-Engineering,9151,7004
+Lahore,2025,Pre-Medical,38868,30369
+Lahore,2026,Commerce,11231,7552
+Lahore,2026,General Science,67114,42419
+Lahore,2026,Humanities,63162,33683
+Lahore,2026,Pre-Engineering,7958,6305
+Lahore,2026,Pre-Medical,39477,32878
+Mardan,2024,General Science,3799,3436
+Mardan,2024,Home Economics,89,78
+Mardan,2024,Humanities,14751,13338
+Mardan,2024,Pre-Engineering,3041,2773
+Mardan,2024,Pre-Medical,21193,20480
+Mardan,2025,General Science,5696,4968
+Mardan,2025,Home Economics,52,42
+Mardan,2025,Humanities,13750,11047
+Mardan,2025,Pre-Engineering,3307,2666
+Mardan,2025,Pre-Medical,22973,19951
+Mardan,2026,General Science,7453,5380
+Mardan,2026,Home Economics,49,43
+Mardan,2026,Humanities,13478,9689
+Mardan,2026,Pre-Engineering,3186,2343
+Mardan,2026,Pre-Medical,25084,21723
+Peshawar,2024,General Science,7987,7261
+Peshawar,2024,Home Economics,237,229
+Peshawar,2024,Humanities,16509,14458
+Peshawar,2024,Other,20,16
+Peshawar,2024,Pre-Engineering,3661,3332
+Peshawar,2024,Pre-Medical,32803,30821
+Peshawar,2025,General Science,10526,5402
+Peshawar,2025,Home Economics,193,173
+Peshawar,2025,Humanities,14684,11418
+Peshawar,2025,Other,16,12
+Peshawar,2025,Pre-Engineering,3586,2103
+Peshawar,2025,Pre-Medical,33317,25794
+Peshawar,2026,General Science,13059,4483
+Peshawar,2026,Home Economics,229,153
+Peshawar,2026,Humanities,12436,5690
+Peshawar,2026,Other,12,2
+Peshawar,2026,Pre-Engineering,3918,1814
+Peshawar,2026,Pre-Medical,37081,22961
+Rawalpindi,2024,Commerce,2704,1597
+Rawalpindi,2024,General Science,21752,11160
+Rawalpindi,2024,Humanities,21187,9901
+Rawalpindi,2024,Pre-Engineering,5082,3495
+Rawalpindi,2024,Pre-Medical,12509,9714
+Rawalpindi,2025,Commerce,2632,1391
+Rawalpindi,2025,General Science,21152,10808
+Rawalpindi,2025,Humanities,20560,9223
+Rawalpindi,2025,Pre-Engineering,3309,2119
+Rawalpindi,2025,Pre-Medical,11243,8325
+Rawalpindi,2026,Commerce,2453,1497
+Rawalpindi,2026,General Science,23576,13997
+Rawalpindi,2026,Humanities,21747,11593
+Rawalpindi,2026,Pre-Engineering,2659,1795
+Rawalpindi,2026,Pre-Medical,10931,7976
+Sahiwal,2024,Commerce,701,377
+Sahiwal,2024,General Science,10090,4955
+Sahiwal,2024,Home Economics,6,5
+Sahiwal,2024,Humanities,15968,6528
+Sahiwal,2024,Other,2,2
+Sahiwal,2024,Pre-Engineering,3428,2334
+Sahiwal,2024,Pre-Medical,15324,10976
+Sahiwal,2025,Commerce,531,269
+Sahiwal,2025,General Science,11566,6779
+Sahiwal,2025,Home Economics,3,0
+Sahiwal,2025,Humanities,16802,7547
+Sahiwal,2025,Other,3,0
+Sahiwal,2025,Pre-Engineering,2333,1718
+Sahiwal,2025,Pre-Medical,12003,9165
+Sahiwal,2026,Commerce,460,304
+Sahiwal,2026,General Science,14200,9546
+Sahiwal,2026,Home Economics,6,3
+Sahiwal,2026,Humanities,18044,9114
+Sahiwal,2026,Other,2,1
+Sahiwal,2026,Pre-Engineering,1969,1516
+Sahiwal,2026,Pre-Medical,11567,8384
+Sargodha,2024,Commerce,612,435
+Sargodha,2024,General Science,9305,6118
+Sargodha,2024,Humanities,25670,15226
+Sargodha,2024,Other,12,3
+Sargodha,2024,Pre-Engineering,3503,2790
+Sargodha,2024,Pre-Medical,13237,11002
+Sargodha,2025,Commerce,471,358
+Sargodha,2025,General Science,10312,7158
+Sargodha,2025,Humanities,25944,15783
+Sargodha,2025,Other,14,6
+Sargodha,2025,Pre-Engineering,2479,2061
+Sargodha,2025,Pre-Medical,10716,9000
+Sargodha,2026,Commerce,382,268
+Sargodha,2026,General Science,13219,9735
+Sargodha,2026,Humanities,27858,16811
+Sargodha,2026,Other,12,3
+Sargodha,2026,Pre-Engineering,2109,1679
+Sargodha,2026,Pre-Medical,11383,9531
+Swat,2024,General Science,1675,1336
+Swat,2024,Humanities,7519,6396
+Swat,2024,Pre-Engineering,1377,1132
+Swat,2024,Pre-Medical,23406,21691
+Swat,2025,General Science,2179,1668
+Swat,2025,Humanities,6144,4746
+Swat,2025,Pre-Engineering,1388,934
+Swat,2025,Pre-Medical,22441,19036
+Swat,2026,General Science,2491,1114
+Swat,2026,Humanities,4493,1871
+Swat,2026,Pre-Engineering,1467,813
+Swat,2026,Pre-Medical,24080,17385

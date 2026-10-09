@@ -1,0 +1,433 @@
+Class,Board,Year,Group,Appeared,Passed,Stream
+10th,Abbottabad,2024,Humanities,20276,13655,Humanities
+10th,Abbottabad,2024,Science,52029,44326,Science
+10th,Abbottabad,2025,Humanities,18786,11815,Humanities
+10th,Abbottabad,2025,Science,52843,45728,Science
+10th,Abbottabad,2026,Humanities,18649,12432,Humanities
+10th,Abbottabad,2026,Science,54028,45520,Science
+10th,Bannu,2024,Humanities,5346,3067,Humanities
+10th,Bannu,2024,Science,25167,21155,Science
+10th,Bannu,2025,Humanities,2461,1607,Humanities
+10th,Bannu,2025,Science,24825,21528,Science
+10th,Bannu,2026,Humanities,3247,2544,Humanities
+10th,Bannu,2026,Science,25993,23218,Science
+10th,Lahore,2024,Humanities,55211,30402,Humanities
+10th,Lahore,2024,Science,195016,144135,Science
+10th,Lahore,2025,Humanities,58985,31187,Humanities
+10th,Lahore,2025,Science,195027,134725,Science
+10th,Lahore,2026,Humanities,64826,31620,Humanities
+10th,Lahore,2026,Science,217482,150566,Science
+10th,Sargodha,2024,Humanities,15912,10928,Humanities
+10th,Sargodha,2024,Other,158,140,Other
+10th,Sargodha,2024,Science,80923,64205,Science
+10th,Sargodha,2026,Humanities,17764,10729,Humanities
+10th,Sargodha,2026,Other,133,114,Other
+10th,Sargodha,2026,Science,82714,57794,Science
+11th,Abbottabad,2024,General Science,7443,5703,Science
+11th,Abbottabad,2024,Home Economics,13,4,Other
+11th,Abbottabad,2024,Humanities,14250,9284,Humanities
+11th,Abbottabad,2024,Pre-Engineering,3176,2364,Science
+11th,Abbottabad,2024,Pre-Medical,17447,13451,Science
+11th,Abbottabad,2025,General Science,9539,5359,Science
+11th,Abbottabad,2025,Home Economics,17,8,Other
+11th,Abbottabad,2025,Humanities,15363,9333,Humanities
+11th,Abbottabad,2025,Pre-Engineering,3320,1594,Science
+11th,Abbottabad,2025,Pre-Medical,19380,13619,Science
+11th,Bahawalpur,2024,Commerce,241,119,Commerce
+11th,Bahawalpur,2024,General Science,15053,8010,Science
+11th,Bahawalpur,2024,Humanities,20734,8054,Humanities
+11th,Bahawalpur,2024,Pre-Engineering,2133,1508,Science
+11th,Bahawalpur,2024,Pre-Medical,13697,9709,Science
+11th,Bahawalpur,2025,Commerce,187,94,Commerce
+11th,Bahawalpur,2025,General Science,17978,10291,Science
+11th,Bahawalpur,2025,Humanities,22033,9456,Humanities
+11th,Bahawalpur,2025,Pre-Engineering,1821,1245,Science
+11th,Bahawalpur,2025,Pre-Medical,14369,8895,Science
+11th,DG Khan,2024,General Science,11716,7331,Science
+11th,DG Khan,2024,Humanities,14990,7901,Humanities
+11th,DG Khan,2024,Pre-Engineering,2026,1432,Science
+11th,DG Khan,2024,Pre-Medical,21642,15680,Science
+11th,DG Khan,2025,General Science,15362,8817,Science
+11th,DG Khan,2025,Humanities,15397,8786,Humanities
+11th,DG Khan,2025,Pre-Engineering,1621,1121,Science
+11th,DG Khan,2025,Pre-Medical,22574,15553,Science
+11th,FBISE,2024,Commerce,3479,1560,Commerce
+11th,FBISE,2024,General Science,34715,16145,Science
+11th,FBISE,2024,Home Economics,68,52,Other
+11th,FBISE,2024,Humanities,16359,9272,Humanities
+11th,FBISE,2024,Pre-Engineering,10456,7295,Science
+11th,FBISE,2024,Pre-Medical,26132,18871,Science
+11th,FBISE,2025,Commerce,3666,1655,Commerce
+11th,FBISE,2025,General Science,38565,21669,Science
+11th,FBISE,2025,Home Economics,65,42,Other
+11th,FBISE,2025,Humanities,17784,9655,Humanities
+11th,FBISE,2025,Pre-Engineering,9054,6994,Science
+11th,FBISE,2025,Pre-Medical,26172,20268,Science
+11th,Gujranwala,2024,Commerce,10350,5218,Commerce
+11th,Gujranwala,2024,General Science,37608,20909,Science
+11th,Gujranwala,2024,Home Economics,42,33,Other
+11th,Gujranwala,2024,Humanities,49389,18955,Humanities
+11th,Gujranwala,2024,Pre-Engineering,6012,4497,Science
+11th,Gujranwala,2024,Pre-Medical,27996,18459,Science
+11th,Gujranwala,2025,Commerce,10625,4913,Commerce
+11th,Gujranwala,2025,General Science,43967,22619,Science
+11th,Gujranwala,2025,Home Economics,40,34,Other
+11th,Gujranwala,2025,Humanities,51570,21510,Humanities
+11th,Gujranwala,2025,Pre-Engineering,5327,3437,Science
+11th,Gujranwala,2025,Pre-Medical,30572,18496,Science
+11th,Kohat,2025,General Science,7642,1691,Science
+11th,Kohat,2025,Home Economics,39,21,Other
+11th,Kohat,2025,Humanities,5094,1720,Humanities
+11th,Kohat,2025,Pre-Engineering,2052,436,Science
+11th,Kohat,2025,Pre-Medical,19185,7031,Science
+11th,Lahore,2024,Commerce,12421,6337,Commerce
+11th,Lahore,2024,General Science,53436,27563,Science
+11th,Lahore,2024,Humanities,53996,23512,Humanities
+11th,Lahore,2024,Pre-Engineering,8214,5590,Science
+11th,Lahore,2024,Pre-Medical,34617,21783,Science
+11th,Lahore,2025,Commerce,10206,5114,Commerce
+11th,Lahore,2025,General Science,62393,36180,Science
+11th,Lahore,2025,Humanities,55305,22152,Humanities
+11th,Lahore,2025,Pre-Engineering,7482,5489,Science
+11th,Lahore,2025,Pre-Medical,36714,23606,Science
+11th,Mardan,2024,General Science,5801,4842,Science
+11th,Mardan,2024,Home Economics,54,41,Other
+11th,Mardan,2024,Humanities,14659,11196,Humanities
+11th,Mardan,2024,Pre-Engineering,3198,2662,Science
+11th,Mardan,2024,Pre-Medical,22619,19257,Science
+11th,Mardan,2025,General Science,8026,7958,Science
+11th,Mardan,2025,Home Economics,52,50,Other
+11th,Mardan,2025,Humanities,15861,15610,Humanities
+11th,Mardan,2025,Pre-Engineering,3366,3342,Science
+11th,Mardan,2025,Pre-Medical,25070,24895,Science
+11th,Peshawar,2024,General Science,11152,8694,Science
+11th,Peshawar,2024,Home Economics,199,170,Other
+11th,Peshawar,2024,Humanities,16352,11577,Humanities
+11th,Peshawar,2024,Pre-Engineering,3606,2924,Science
+11th,Peshawar,2024,Pre-Medical,31558,26825,Science
+11th,Rawalpindi,2024,Commerce,2727,1094,Commerce
+11th,Rawalpindi,2024,General Science,22117,8222,Science
+11th,Rawalpindi,2024,Humanities,20855,7053,Humanities
+11th,Rawalpindi,2024,Pre-Engineering,3018,1738,Science
+11th,Rawalpindi,2024,Pre-Medical,10993,5799,Science
+11th,Rawalpindi,2025,Commerce,2282,932,Commerce
+11th,Rawalpindi,2025,General Science,24747,11044,Science
+11th,Rawalpindi,2025,Humanities,21285,7693,Humanities
+11th,Rawalpindi,2025,Pre-Engineering,2614,1458,Science
+11th,Rawalpindi,2025,Pre-Medical,11092,5824,Science
+11th,Sahiwal,2024,Commerce,468,190,Commerce
+11th,Sahiwal,2024,General Science,11493,5536,Science
+11th,Sahiwal,2024,Home Economics,3,0,Other
+11th,Sahiwal,2024,Humanities,11988,4989,Humanities
+11th,Sahiwal,2024,Pre-Engineering,2069,1450,Science
+11th,Sahiwal,2024,Pre-Medical,10595,7300,Science
+11th,Sahiwal,2025,Commerce,410,273,Commerce
+11th,Sahiwal,2025,General Science,13410,8137,Science
+11th,Sahiwal,2025,Home Economics,6,5,Other
+11th,Sahiwal,2025,Humanities,15967,6608,Humanities
+11th,Sahiwal,2025,Pre-Engineering,1810,1336,Science
+11th,Sahiwal,2025,Pre-Medical,10926,6823,Science
+11th,Sargodha,2024,Commerce,465,251,Commerce
+11th,Sargodha,2024,General Science,10726,5961,Science
+11th,Sargodha,2024,Humanities,26103,11616,Humanities
+11th,Sargodha,2024,Pre-Engineering,2449,1912,Science
+11th,Sargodha,2024,Pre-Medical,9773,7194,Science
+11th,Sargodha,2025,Commerce,365,220,Commerce
+11th,Sargodha,2025,General Science,13448,8451,Science
+11th,Sargodha,2025,Humanities,27862,13092,Humanities
+11th,Sargodha,2025,Pre-Engineering,2060,1567,Science
+11th,Sargodha,2025,Pre-Medical,11096,7948,Science
+11th,Swat,2024,General Science,2248,839,Science
+11th,Swat,2024,Humanities,7302,4234,Humanities
+11th,Swat,2024,Pre-Engineering,1269,524,Science
+11th,Swat,2024,Pre-Medical,21465,14887,Science
+11th,Swat,2025,General Science,2601,628,Science
+11th,Swat,2025,Humanities,5721,2124,Humanities
+11th,Swat,2025,Pre-Engineering,1380,464,Science
+11th,Swat,2025,Pre-Medical,23368,12764,Science
+12th,Abbottabad,2024,General Science,5350,4723,Science
+12th,Abbottabad,2024,Home Economics,8,7,Other
+12th,Abbottabad,2024,Humanities,11390,9304,Humanities
+12th,Abbottabad,2024,Other,2,2,Other
+12th,Abbottabad,2024,Pre-Engineering,3885,3298,Science
+12th,Abbottabad,2024,Pre-Medical,18199,15986,Science
+12th,Abbottabad,2025,General Science,7488,6529,Science
+12th,Abbottabad,2025,Home Economics,13,7,Other
+12th,Abbottabad,2025,Humanities,13145,10523,Humanities
+12th,Abbottabad,2025,Pre-Engineering,3277,2778,Science
+12th,Abbottabad,2025,Pre-Medical,18129,16476,Science
+12th,Abbottabad,2026,General Science,9411,6469,Science
+12th,Abbottabad,2026,Home Economics,21,19,Other
+12th,Abbottabad,2026,Humanities,13466,10611,Humanities
+12th,Abbottabad,2026,Pre-Engineering,3272,2316,Science
+12th,Abbottabad,2026,Pre-Medical,19587,16403,Science
+12th,Bahawalpur,2024,Commerce,305,160,Commerce
+12th,Bahawalpur,2024,General Science,12610,6959,Science
+12th,Bahawalpur,2024,Humanities,22433,9416,Humanities
+12th,Bahawalpur,2024,Pre-Engineering,3280,2405,Science
+12th,Bahawalpur,2024,Pre-Medical,19032,15749,Science
+12th,Bahawalpur,2025,Commerce,278,155,Commerce
+12th,Bahawalpur,2025,General Science,15168,9615,Science
+12th,Bahawalpur,2025,Humanities,22983,11375,Humanities
+12th,Bahawalpur,2025,Pre-Engineering,2298,1818,Science
+12th,Bahawalpur,2025,Pre-Medical,15000,12441,Science
+12th,Bahawalpur,2026,Commerce,213,133,Commerce
+12th,Bahawalpur,2026,General Science,18527,11387,Science
+12th,Bahawalpur,2026,Humanities,24824,11642,Humanities
+12th,Bahawalpur,2026,Pre-Engineering,1985,1456,Science
+12th,Bahawalpur,2026,Pre-Medical,15043,11686,Science
+12th,Bannu,2025,General Science,2243,1859,Science
+12th,Bannu,2025,Humanities,4629,3684,Humanities
+12th,Bannu,2025,Pre-Engineering,1602,1393,Science
+12th,Bannu,2025,Pre-Medical,9582,8548,Science
+12th,Bannu,2026,General Science,2967,2497,Science
+12th,Bannu,2026,Humanities,3919,3067,Humanities
+12th,Bannu,2026,Pre-Engineering,1486,1283,Science
+12th,Bannu,2026,Pre-Medical,9399,7637,Science
+12th,DG Khan,2024,Commerce,208,146,Commerce
+12th,DG Khan,2024,General Science,8578,5388,Science
+12th,DG Khan,2024,Humanities,17172,9575,Humanities
+12th,DG Khan,2024,Pre-Engineering,2924,2116,Science
+12th,DG Khan,2024,Pre-Medical,31220,25116,Science
+12th,DG Khan,2025,Commerce,167,126,Commerce
+12th,DG Khan,2025,General Science,11778,8678,Science
+12th,DG Khan,2025,Humanities,15993,9795,Humanities
+12th,DG Khan,2025,Pre-Engineering,2292,1800,Science
+12th,DG Khan,2025,Pre-Medical,25853,21586,Science
+12th,DG Khan,2026,Commerce,162,136,Commerce
+12th,DG Khan,2026,General Science,15292,10295,Science
+12th,DG Khan,2026,Humanities,16822,11025,Humanities
+12th,DG Khan,2026,Pre-Engineering,1808,1342,Science
+12th,DG Khan,2026,Pre-Medical,25159,20534,Science
+12th,FBISE,2024,Commerce,4408,3135,Commerce
+12th,FBISE,2024,General Science,28110,19314,Science
+12th,FBISE,2024,Home Economics,65,55,Other
+12th,FBISE,2024,Humanities,16804,13585,Humanities
+12th,FBISE,2024,Other,11728,10207,Other
+12th,FBISE,2024,Pre-Medical,28146,26357,Science
+12th,FBISE,2025,Commerce,3961,3052,Commerce
+12th,FBISE,2025,General Science,36074,26041,Science
+12th,FBISE,2025,Home Economics,61,55,Other
+12th,FBISE,2025,Humanities,16923,14132,Humanities
+12th,FBISE,2025,Other,10681,9495,Other
+12th,FBISE,2025,Pre-Medical,28821,27106,Science
+12th,FBISE,2026,Commerce,4131,3094,Commerce
+12th,FBISE,2026,General Science,42251,33219,Science
+12th,FBISE,2026,Home Economics,71,59,Other
+12th,FBISE,2026,Humanities,18327,15036,Humanities
+12th,FBISE,2026,Other,9488,8619,Other
+12th,FBISE,2026,Pre-Medical,28910,27337,Science
+12th,Faisalabad,2024,Commerce,3745,2252,Commerce
+12th,Faisalabad,2024,General Science,20143,13836,Science
+12th,Faisalabad,2024,Humanities,40638,24887,Humanities
+12th,Faisalabad,2024,Other,115,26,Other
+12th,Faisalabad,2024,Pre-Engineering,7608,6332,Science
+12th,Faisalabad,2024,Pre-Medical,31020,26821,Science
+12th,Faisalabad,2025,Commerce,3477,2341,Commerce
+12th,Faisalabad,2025,General Science,24812,19440,Science
+12th,Faisalabad,2025,Home Economics,6,5,Other
+12th,Faisalabad,2025,Humanities,42458,25929,Humanities
+12th,Faisalabad,2025,Other,220,83,Other
+12th,Faisalabad,2025,Pre-Engineering,6032,5260,Science
+12th,Faisalabad,2025,Pre-Medical,27004,23603,Science
+12th,Faisalabad,2026,Commerce,3019,1876,Commerce
+12th,Faisalabad,2026,General Science,29697,22111,Science
+12th,Faisalabad,2026,Home Economics,8,8,Other
+12th,Faisalabad,2026,Humanities,45873,27826,Humanities
+12th,Faisalabad,2026,Other,152,74,Other
+12th,Faisalabad,2026,Pre-Engineering,5129,4265,Science
+12th,Faisalabad,2026,Pre-Medical,25366,21548,Science
+12th,Gujranwala,2024,Commerce,10900,6480,Commerce
+12th,Gujranwala,2024,General Science,32594,18845,Science
+12th,Gujranwala,2024,Home Economics,29,20,Other
+12th,Gujranwala,2024,Humanities,50061,25295,Humanities
+12th,Gujranwala,2024,Pre-Engineering,9589,7032,Science
+12th,Gujranwala,2024,Pre-Medical,39661,31347,Science
+12th,Gujranwala,2025,Commerce,10404,6185,Commerce
+12th,Gujranwala,2025,General Science,37242,24334,Science
+12th,Gujranwala,2025,Home Economics,42,32,Other
+12th,Gujranwala,2025,Humanities,50774,26145,Humanities
+12th,Gujranwala,2025,Pre-Engineering,6562,4949,Science
+12th,Gujranwala,2025,Pre-Medical,30786,24051,Science
+12th,Kohat,2025,General Science,5453,2161,Science
+12th,Kohat,2025,Home Economics,22,18,Other
+12th,Kohat,2025,Humanities,4830,2740,Humanities
+12th,Kohat,2025,Pre-Engineering,1929,788,Science
+12th,Kohat,2025,Pre-Medical,17261,11101,Science
+12th,Kohat,2026,General Science,7052,1251,Science
+12th,Kohat,2026,Home Economics,40,21,Other
+12th,Kohat,2026,Humanities,3961,1452,Humanities
+12th,Kohat,2026,Pre-Engineering,1996,531,Science
+12th,Kohat,2026,Pre-Medical,18445,6469,Science
+12th,Lahore,2024,Commerce,15268,9581,Commerce
+12th,Lahore,2024,General Science,49193,28506,Science
+12th,Lahore,2024,Humanities,63573,29172,Humanities
+12th,Lahore,2024,Pre-Engineering,12950,9528,Science
+12th,Lahore,2024,Pre-Medical,49234,38198,Science
+12th,Lahore,2025,Commerce,12976,8041,Commerce
+12th,Lahore,2025,General Science,56997,34622,Science
+12th,Lahore,2025,Humanities,62337,29705,Humanities
+12th,Lahore,2025,Pre-Engineering,9151,7004,Science
+12th,Lahore,2025,Pre-Medical,38868,30369,Science
+12th,Lahore,2026,Commerce,11231,7552,Commerce
+12th,Lahore,2026,General Science,67114,42419,Science
+12th,Lahore,2026,Humanities,63162,33683,Humanities
+12th,Lahore,2026,Pre-Engineering,7958,6305,Science
+12th,Lahore,2026,Pre-Medical,39477,32878,Science
+12th,Mardan,2024,General Science,3799,3436,Science
+12th,Mardan,2024,Home Economics,89,78,Other
+12th,Mardan,2024,Humanities,14751,13338,Humanities
+12th,Mardan,2024,Pre-Engineering,3041,2773,Science
+12th,Mardan,2024,Pre-Medical,21193,20480,Science
+12th,Mardan,2025,General Science,5696,4968,Science
+12th,Mardan,2025,Home Economics,52,42,Other
+12th,Mardan,2025,Humanities,13750,11047,Humanities
+12th,Mardan,2025,Pre-Engineering,3307,2666,Science
+12th,Mardan,2025,Pre-Medical,22973,19951,Science
+12th,Mardan,2026,General Science,7453,5380,Science
+12th,Mardan,2026,Home Economics,49,43,Other
+12th,Mardan,2026,Humanities,13478,9689,Humanities
+12th,Mardan,2026,Pre-Engineering,3186,2343,Science
+12th,Mardan,2026,Pre-Medical,25084,21723,Science
+12th,Peshawar,2024,General Science,7987,7261,Science
+12th,Peshawar,2024,Home Economics,237,229,Other
+12th,Peshawar,2024,Humanities,16509,14458,Humanities
+12th,Peshawar,2024,Other,20,16,Other
+12th,Peshawar,2024,Pre-Engineering,3661,3332,Science
+12th,Peshawar,2024,Pre-Medical,32803,30821,Science
+12th,Peshawar,2025,General Science,10526,5402,Science
+12th,Peshawar,2025,Home Economics,193,173,Other
+12th,Peshawar,2025,Humanities,14684,11418,Humanities
+12th,Peshawar,2025,Other,16,12,Other
+12th,Peshawar,2025,Pre-Engineering,3586,2103,Science
+12th,Peshawar,2025,Pre-Medical,33317,25794,Science
+12th,Peshawar,2026,General Science,13059,4483,Science
+12th,Peshawar,2026,Home Economics,229,153,Other
+12th,Peshawar,2026,Humanities,12436,5690,Humanities
+12th,Peshawar,2026,Other,12,2,Other
+12th,Peshawar,2026,Pre-Engineering,3918,1814,Science
+12th,Peshawar,2026,Pre-Medical,37081,22961,Science
+12th,Rawalpindi,2024,Commerce,2704,1597,Commerce
+12th,Rawalpindi,2024,General Science,21752,11160,Science
+12th,Rawalpindi,2024,Humanities,21187,9901,Humanities
+12th,Rawalpindi,2024,Pre-Engineering,5082,3495,Science
+12th,Rawalpindi,2024,Pre-Medical,12509,9714,Science
+12th,Rawalpindi,2025,Commerce,2632,1391,Commerce
+12th,Rawalpindi,2025,General Science,21152,10808,Science
+12th,Rawalpindi,2025,Humanities,20560,9223,Humanities
+12th,Rawalpindi,2025,Pre-Engineering,3309,2119,Science
+12th,Rawalpindi,2025,Pre-Medical,11243,8325,Science
+12th,Rawalpindi,2026,Commerce,2453,1497,Commerce
+12th,Rawalpindi,2026,General Science,23576,13997,Science
+12th,Rawalpindi,2026,Humanities,21747,11593,Humanities
+12th,Rawalpindi,2026,Pre-Engineering,2659,1795,Science
+12th,Rawalpindi,2026,Pre-Medical,10931,7976,Science
+12th,Sahiwal,2024,Commerce,701,377,Commerce
+12th,Sahiwal,2024,General Science,10090,4955,Science
+12th,Sahiwal,2024,Home Economics,6,5,Other
+12th,Sahiwal,2024,Humanities,15968,6528,Humanities
+12th,Sahiwal,2024,Other,2,2,Other
+12th,Sahiwal,2024,Pre-Engineering,3428,2334,Science
+12th,Sahiwal,2024,Pre-Medical,15324,10976,Science
+12th,Sahiwal,2025,Commerce,531,269,Commerce
+12th,Sahiwal,2025,General Science,11566,6779,Science
+12th,Sahiwal,2025,Home Economics,3,0,Other
+12th,Sahiwal,2025,Humanities,16802,7547,Humanities
+12th,Sahiwal,2025,Other,3,0,Other
+12th,Sahiwal,2025,Pre-Engineering,2333,1718,Science
+12th,Sahiwal,2025,Pre-Medical,12003,9165,Science
+12th,Sahiwal,2026,Commerce,460,304,Commerce
+12th,Sahiwal,2026,General Science,14200,9546,Science
+12th,Sahiwal,2026,Home Economics,6,3,Other
+12th,Sahiwal,2026,Humanities,18044,9114,Humanities
+12th,Sahiwal,2026,Other,2,1,Other
+12th,Sahiwal,2026,Pre-Engineering,1969,1516,Science
+12th,Sahiwal,2026,Pre-Medical,11567,8384,Science
+12th,Sargodha,2024,Commerce,612,435,Commerce
+12th,Sargodha,2024,General Science,9305,6118,Science
+12th,Sargodha,2024,Humanities,25670,15226,Humanities
+12th,Sargodha,2024,Other,12,3,Other
+12th,Sargodha,2024,Pre-Engineering,3503,2790,Science
+12th,Sargodha,2024,Pre-Medical,13237,11002,Science
+12th,Sargodha,2025,Commerce,471,358,Commerce
+12th,Sargodha,2025,General Science,10312,7158,Science
+12th,Sargodha,2025,Humanities,25944,15783,Humanities
+12th,Sargodha,2025,Other,14,6,Other
+12th,Sargodha,2025,Pre-Engineering,2479,2061,Science
+12th,Sargodha,2025,Pre-Medical,10716,9000,Science
+12th,Sargodha,2026,Commerce,382,268,Commerce
+12th,Sargodha,2026,General Science,13219,9735,Science
+12th,Sargodha,2026,Humanities,27858,16811,Humanities
+12th,Sargodha,2026,Other,12,3,Other
+12th,Sargodha,2026,Pre-Engineering,2109,1679,Science
+12th,Sargodha,2026,Pre-Medical,11383,9531,Science
+12th,Swat,2024,General Science,1675,1336,Science
+12th,Swat,2024,Humanities,7519,6396,Humanities
+12th,Swat,2024,Pre-Engineering,1377,1132,Science
+12th,Swat,2024,Pre-Medical,23406,21691,Science
+12th,Swat,2025,General Science,2179,1668,Science
+12th,Swat,2025,Humanities,6144,4746,Humanities
+12th,Swat,2025,Pre-Engineering,1388,934,Science
+12th,Swat,2025,Pre-Medical,22441,19036,Science
+12th,Swat,2026,General Science,2491,1114,Science
+12th,Swat,2026,Humanities,4493,1871,Humanities
+12th,Swat,2026,Pre-Engineering,1467,813,Science
+12th,Swat,2026,Pre-Medical,24080,17385,Science
+9th,Abbottabad,2025,Humanities,19284,7091,Humanities
+9th,Abbottabad,2025,Science,54175,36678,Science
+9th,Abbottabad,2026,Humanities,17459,7857,Humanities
+9th,Abbottabad,2026,Science,54908,38362,Science
+9th,Bahawalpur,2025,Humanities,12223,5041,Humanities
+9th,Bahawalpur,2025,Science,98214,42533,Science
+9th,Bahawalpur,2026,Humanities,14051,3098,Humanities
+9th,Bahawalpur,2026,Science,87629,36241,Science
+9th,Bannu,2025,Humanities,4175,1962,Humanities
+9th,Bannu,2025,Science,26064,19020,Science
+9th,Bannu,2026,Humanities,3237,1840,Humanities
+9th,Bannu,2026,Science,27791,21795,Science
+9th,DG Khan,2025,Humanities,4495,2365,Humanities
+9th,DG Khan,2025,Science,101359,58333,Science
+9th,DG Khan,2026,Humanities,4904,1145,Humanities
+9th,DG Khan,2026,Science,101097,49936,Science
+9th,FBISE,2025,Humanities,16798,9428,Humanities
+9th,FBISE,2025,Science,127758,80454,Science
+9th,FBISE,2026,Humanities,15993,3482,Humanities
+9th,FBISE,2026,Science,132318,85164,Science
+9th,Faisalabad,2025,Humanities,39791,17503,Humanities
+9th,Faisalabad,2025,Science,165237,88122,Science
+9th,Faisalabad,2026,Humanities,39971,11268,Humanities
+9th,Faisalabad,2026,Science,150892,86991,Science
+9th,Gujranwala,2025,Humanities,70864,32767,Humanities
+9th,Gujranwala,2025,Science,200451,101130,Science
+9th,Gujranwala,2026,Humanities,72244,20839,Humanities
+9th,Gujranwala,2026,Science,169137,91805,Science
+9th,Kohat,2025,Humanities,5244,1724,Humanities
+9th,Kohat,2025,Science,46515,19765,Science
+9th,Kohat,2026,Humanities,4465,1193,Humanities
+9th,Kohat,2026,Science,41471,12826,Science
+9th,Lahore,2025,Humanities,72826,27213,Humanities
+9th,Lahore,2025,Science,235247,111681,Science
+9th,Lahore,2026,Humanities,70761,16228,Humanities
+9th,Lahore,2026,Science,203844,111802,Science
+9th,Mardan,2025,Humanities,23353,23005,Humanities
+9th,Mardan,2025,Science,59313,58997,Science
+9th,Mardan,2026,Humanities,21172,20858,Humanities
+9th,Mardan,2026,Science,61293,60911,Science
+9th,Peshawar,2025,Humanities,18577,18110,Humanities
+9th,Peshawar,2025,Science,83311,82550,Science
+9th,Peshawar,2026,Humanities,16662,16320,Humanities
+9th,Peshawar,2026,Science,81288,80630,Science
+9th,Rawalpindi,2025,Humanities,26146,10850,Humanities
+9th,Rawalpindi,2025,Science,99843,42807,Science
+9th,Rawalpindi,2026,Humanities,27558,5787,Humanities
+9th,Rawalpindi,2026,Science,87499,37593,Science
+9th,Sahiwal,2025,Humanities,15843,6841,Humanities
+9th,Sahiwal,2025,Science,80133,37353,Science
+9th,Sahiwal,2026,Humanities,15464,2769,Humanities
+9th,Sahiwal,2026,Science,66719,32959,Science
+9th,Sargodha,2025,Humanities,19591,8304,Humanities
+9th,Sargodha,2025,Science,92816,43778,Science
+9th,Sargodha,2026,Humanities,21482,5601,Humanities
+9th,Sargodha,2026,Science,81729,38738,Science
+9th,Swat,2026,Humanities,4203,1037,Humanities
+9th,Swat,2026,Science,45842,23771,Science
